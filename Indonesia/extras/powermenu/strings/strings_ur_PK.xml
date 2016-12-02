@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_airplane_mode">ہوائی جہاز</string>
+    <string name="label_silent_mode">خاموش</string>
+    <string name="label_reboot">دوبارہ بوٹ کریں</string>
+    <string name="label_shutdown">پاور آف کریں</string>
+    <string name="label_alert_reboot">دوبارہ بوٹ کرنے کے لئے ٹیپ کریں</string>
+    <string name="label_alert_shutdown">پاور آف کرنے کے لئے ٹیپ کریں</string>
+    <string name="label_blank">&quot;واپس&quot;</string>
+    <string name="label_emergency_call">ہنگامی کال</string>
+</resources>

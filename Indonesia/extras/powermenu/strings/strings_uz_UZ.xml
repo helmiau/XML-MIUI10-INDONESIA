@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_airplane_mode">Parvoz</string>
+    <string name="label_silent_mode">Ovozsiz</string>
+    <string name="label_reboot">O\'chirib yoqish</string>
+    <string name="label_shutdown">O\'chirish</string>
+    <string name="label_alert_reboot">O\'chirib yoqish uchun bosing</string>
+    <string name="label_alert_shutdown">O\'chirish uchun bosing</string>
+    <string name="label_blank">Orqaga</string>
+    <string name="label_emergency_call">Favqulodda qo\'ng\'iroq</string>
+</resources>

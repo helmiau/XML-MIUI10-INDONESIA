@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_airplane_mode">Samolot</string>
+    <string name="label_silent_mode">Wycisz</string>
+    <string name="label_reboot">Uruchom ponownie</string>
+    <string name="label_shutdown">Wyłącz</string>
+    <string name="label_alert_reboot">Dotknij, by uruchomić ponownie</string>
+    <string name="label_alert_shutdown">Dotknij, by wyłączyć</string>
+    <string name="label_blank">Wstecz</string>
+    <string name="label_emergency_call">Połączenia alarmowe</string>
+</resources>

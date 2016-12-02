@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_airplane_mode">Авион</string>
+    <string name="label_silent_mode">Тишина</string>
+    <string name="label_reboot">Ресетирај</string>
+    <string name="label_shutdown">Исклучете</string>
+    <string name="label_alert_reboot">Допрете погоре за да се рестартира</string>
+    <string name="label_alert_shutdown">Допрете погоре за да се исклучи</string>
+</resources>

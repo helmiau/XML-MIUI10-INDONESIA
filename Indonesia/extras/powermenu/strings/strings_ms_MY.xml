@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_airplane_mode">Pesawat</string>
+    <string name="label_silent_mode">Senyap</string>
+    <string name="label_reboot">Mula Semula</string>
+    <string name="label_shutdown">Matikan telefon</string>
+    <string name="label_alert_reboot">Sentuh untuk mulakan semula telefon</string>
+    <string name="label_alert_shutdown">Sentuh untuk matikan telefon</string>
+    <string name="label_blank">Kembali</string>
+    <string name="label_emergency_call">Panggilan kecemasan</string>
+</resources>

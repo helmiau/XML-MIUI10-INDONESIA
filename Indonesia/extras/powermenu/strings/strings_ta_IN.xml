@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_airplane_mode">விமானம்</string>
+    <string name="label_silent_mode">நிசப்தம்</string>
+    <string name="label_reboot">மறுதொடக்கம்</string>
+    <string name="label_shutdown">பவர் ஆஃப்</string>
+    <string name="label_alert_reboot">மறுதொடக்கம் செய்ய தட்டுக</string>
+    <string name="label_alert_shutdown">அணைக்க தட்டுக</string>
+    <string name="label_blank">பின்செல்</string>
+    <string name="label_emergency_call">அவசர அழைப்பு</string>
+</resources>

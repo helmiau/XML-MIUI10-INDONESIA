@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_airplane_mode">ଉଡାଜାହାଜ</string>
+    <string name="label_silent_mode">ନୀରବ</string>
+    <string name="label_reboot">ରିବୁଟ୍‍</string>
+    <string name="label_shutdown">ପାୱାର୍‌ ଅଫ୍‌ କରନ୍ତୁ</string>
+    <string name="label_alert_reboot">ରିବୁଟ୍‌ କରିବା ପାଇଁ ଟ୍ୟାପ୍‌ କରନ୍ତୁ</string>
+    <string name="label_alert_shutdown">ପାୱାର୍‌ ଅଫ୍‌ କରିବା ପାଇଁ ଟ୍ୟାପ୍‌ କରନ୍ତୁ</string>
+    <string name="label_blank">ଫେରନ୍ତୁ</string>
+    <string name="label_emergency_call">ଜରୁରୀକାଳୀନ କଲ୍‌</string>
+</resources>
