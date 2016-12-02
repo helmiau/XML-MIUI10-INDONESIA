@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setting_title">Setelan Masukan Pinyin Google</string>
+    <string name="setting_input_summary">Tradisional/sederhana, prediksi, koreksi otomatis, ketikan isyarat, Pinyin fuzi, dll.</string>
+    <string name="tutorial_activation_title">Menyiapkan Masukan Pinyin Google</string>
+    <string name="tutorial_enable_hint">1 Aktifkan Masukan Pinyin Google</string>
+    <string name="tutorial_select_hint">2 Pilih Masukan Pinyin Google</string>
+</resources>

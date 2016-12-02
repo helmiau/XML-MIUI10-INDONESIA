@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reverb_preset_list">
+        <item>Tidak ada</item>
+        <item>Ruangan Kecil</item>
+        <item>Ruangan Sedang</item>
+        <item>Ruangan Besar</item>
+        <item>Aula Sedang</item>
+        <item>Aula Besar</item>
+        <item>Pelat Gema</item>
+    </string-array>
+</resources>

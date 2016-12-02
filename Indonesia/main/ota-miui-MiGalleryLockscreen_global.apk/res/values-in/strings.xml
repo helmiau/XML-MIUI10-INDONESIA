@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_magazine_title">Komedi putar Wallpaper</string>
+    <string name="lockscreen_magazine_summary">Kategori</string>
+    <string name="lockscreen_magazine_system_title">Offline</string>
+    <string name="theme_apply_success">Layar kunci diterapkan</string>
+    <string name="theme_apply_failured">Tidak dapat menerapkan, coba lagi nanti</string>
+    <string name="theme_applying">Menerapkan…</string>
+    <string name="app_name">Komedi putar Wallpaper</string>
+    <string name="declaration_title">Syarat dan Ketentuan</string>
+    <string name="declaration_lockscreen_title">Komedi putar Wallpaper</string>
+    <string name="declaration">Dapatkan wallpaper baru gratis, langsung dikirim ke layar kunci Anda setiap hari.</string>
+    <string name="cancel">Batal</string>
+    <string name="no_long_show">Jangan tampil lagi</string>
+    <string name="resource_apply">Terapkan</string>
+    <string name="resource_no_network_text">Tidak dapat terhubung ke jaringan.</string>
+    <string name="setting_head">Setelan</string>
+    <string name="wlan_download">Perbarui via Wi-Fi</string>
+    <string name="change_time">Ganti wallpaper</string>
+    <string name="hour_1">Tiap jam</string>
+    <string name="hour_3">Tiap 3 jam</string>
+    <string name="day">1x sehari</string>
+    <string name="minutes_15">15 menit</string>
+    <string name="auto_interval">Otomatis</string>
+    <string name="summary">"Dengan menggunakan fitur ini, Anda menyetujui &lt;a href ='http://www.miui.com/res/doc/eula/in.html'>Perjanjian Pengguna&lt;/a> dan &lt;a href='http://www.miui.com/res/doc/privacy/in.html'>Kebijakan Privasi&lt;/a> kami. Fitur ini butuh terhubung ke internet untuk bekerja dengan normal."</string>
+    <string name="at_least_one">Pilih setidaknya 1 kategori</string>
+    <string name="ok_network">Setuju</string>
+    <string name="ok_lockscreen">Oke</string>
+    <string name="ok_international">Setuju</string>
+    <string name="cancel_international">Batal</string>
+    <string name="summary_international">"Dengan menggunakan fitur ini, Anda menyetujui &lt;a href ='http://www.miui.com/res/doc/eula/in.html'>Perjanjian Pengguna&lt;/a> dan &lt;a href='http://www.miui.com/res/doc/privacy/in.html'>Kebijakan Privasi&lt;/a> kami. Fitur ini butuh terhubung ke internet untuk bekerja dengan normal."</string>
+    <string name="wlan_download_cn">Perbarui via WLAN</string>
+    <string name="sst_prov_enable_title">Hidupkan Komedi Putar Wallpaper</string>
+    <string name="sst_prov_enable_desc">Dapatkan wallpaper baru untuk layar kunci Anda secara reguler</string>
+    <string name="sst_sti_title">Frekuensi pembaruan</string>
+    <string name="sst_sti_desc">Setel frekuensi pembaruan wallpaper</string>
+    <string name="sst_wifi_only_title">Perbarui wallpaper dengan data seluler</string>
+    <string name="sst_wifi_only_desc">Matikan fitur ini untuk hemat data seluler</string>
+    <string name="sst_favor_title">Favorit</string>
+    <string name="sst_favor_desc">Lihat wallpaper favorit</string>
+    <string name="sst_subscribe_title">Kategori saya</string>
+    <string name="sst_require_one_category_hint">Pilih setidaknya 1 kategori</string>
+    <string name="sst_no_favor_wallpaper_hint">Tak ada wallpaper di Favorit</string>
+    <string name="sst_grid_view_select_all">Pilih semua</string>
+    <string name="sst_grid_view_unselect_all">Batal pilih</string>
+</resources>

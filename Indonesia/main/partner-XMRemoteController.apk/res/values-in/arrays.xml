@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Dingin</item>
+        <item>Panas</item>
+        <item>Kurangi kelembaban</item>
+        <item>Kipas</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Perangkat Anda hanya dapat dipasangkan dengan Mi TV, Mi Box, dan beberapa perangkat Android lainnya via Wi-Fi.</item>
+        <item>Pastikan Anda telah memilih tipe AC yang tepat dalam proses pemasangan. Ikuti petunjuk pada perangkat Anda hingga pemasangan selesai.</item>
+        <item>Tidak. Saat ini Anda dapat menggunakan Mi 4, Mi4c, dan Redmi Note 2 sebagai remote IR.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Min</item>
+        <item>Sen</item>
+        <item>Sel</item>
+        <item>Rab</item>
+        <item>Kam</item>
+        <item>Jum</item>
+        <item>Sab</item>
+    </string-array>
+    <string-array name="question">
+        <item>Mengapa telepon saya terus mencari perangkat nirkabel?</item>
+        <item>Mengapa saya hanya dapat menghidupkan AC dan tidak dapat mematikan?</item>
+        <item>Dapatkah saya menggunakan Mi 3, Mi 2, dan Redmi sebagai remote IR?</item>
+    </string-array>
+</resources>

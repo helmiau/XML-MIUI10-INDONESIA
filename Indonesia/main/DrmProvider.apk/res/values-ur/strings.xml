@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">DRM تحفظ یافتہ مواد کا اسٹوریج</string>
+    <string name="permlab_accessDrm">DRM مواد تک رسائی کریں۔</string>
+    <string name="permdesc_accessDrm">اپلیکیشنز کو DRM سے تحفظ یافتہ مواد تک رسائی کی اجازت دیں۔</string>
+    <string name="permlab_installDrm">DRM رابطہ نصب کریں۔</string>
+    <string name="permdesc_installDrm">اپلیکیشنز کو DRM سے تحفظ یافتہ مواد نصب کرنے کی اجازت دیں۔</string>
+</resources>

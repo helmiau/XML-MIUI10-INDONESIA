@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Telusuri Tablet</string>
+    <string name="corpus_name_summons">Tablet</string>
+    <string name="search_sources">Penelusuran tablet</string>
+    <string name="no_summons_found">"Tidak ditemukan hasil
+di tablet Anda."</string>
+    <string name="hands_free_unlock_device">Untuk melakukan penelusuran suara Google, buka kunci tablet Anda.</string>
+    <string name="icing_manage_storage_summary">"Kami mempercepat penelusuran di tablet Anda dan menyediakan mesin telusur untuk  Aplikasi Anda."</string>
+</resources>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="download_finished">
+        <item quantity="other">&amp;lt;font color=\"red\">%d lagu&amp;lt;/font> diunduh</item>
+    </plurals>
+    <plurals name="download_running">
+        <item quantity="other">&amp;lt;font color=\"red\">%d lagu&amp;lt;/font> sedang diunduh</item>
+    </plurals>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">%d lagu ditemukan</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d hari tersisa</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d lagu akan diunduh</item>
+    </plurals>
+    <plurals name="NPlaylist_delete_confirm">
+        <item quantity="other">Hapus %d daftar putar?</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d baru</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d lagu</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d lagu yang mirip</item>
+    </plurals>
+    <plurals name="Nartists_count">
+        <item quantity="other">%d artis</item>
+    </plurals>
+    <plurals name="Ngroups_count">
+        <item quantity="other">%d grup</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+        <item quantity="other">Hapus %d lagu?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+        <item quantity="other">Hapus %d lagu?</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d lagu ditambahkan ke daftar putar</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d lagu dihapus dari daftar putar</item>
+    </plurals>
+    <plurals name="Nquit_warning">
+        <item quantity="other">Pemutar akan berhenti setelah %d mnt</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d lagu akan dikirim</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%d lagu</item>
+    </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">%d lagu ditambahkan</item>
+    </plurals>
+    <plurals name="multichoice_title">
+        <item quantity="other">%d item terpilih</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+        <item quantity="other">Lagu telah difavoritkan.</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%d komentar</item>
+    </plurals>
+    <plurals name="reader_count">
+        <item quantity="other">%d pengikut</item>
+    </plurals>
+</resources>

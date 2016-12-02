@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$s unduhan</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s pengguna</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d hari lalu</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d jam lalu</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">Tersedia %d merek</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d menit lalu</item>
+    </plurals>
+</resources>

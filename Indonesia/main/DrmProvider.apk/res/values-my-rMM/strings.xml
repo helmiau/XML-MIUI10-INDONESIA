@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">DRM ဖြင့် ကာကွယ်ထားသော ပါဝင်မှု အကြောင်းအရာ သိမ်းဆည်းခြင်း</string>
+    <string name="permlab_accessDrm">DRM ပါဝင်မှု အကြောင်းအရာကို အသုံးပြုပါ။</string>
+    <string name="permdesc_accessDrm">ပရိုဂရမ်အား DRM ဖြင့် ကာကွယ်ထားသော ပါဝင်မှု အကြောင်းအရာကို အသုံးပြုခွင့်ပြုပါ။</string>
+    <string name="permlab_installDrm">DRM ပါဝင်မှု အကြောင်းအရာကို တပ်ဆင်ပါ။</string>
+    <string name="permdesc_installDrm">ပရိုဂရမ်အား DRM ဖြင့် ကာကွယ်ထားသော ပါဝင်မှု အကြောင်းအရာကို အသုံးပြုခွင့်ပြုပါ။</string>
+</resources>

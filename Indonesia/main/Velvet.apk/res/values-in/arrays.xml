@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>ULANG TIAP HARI</item>
+        <item>ULANG TIAP MINGGU</item>
+        <item>ULANG TIAP BULAN</item>
+        <item>ULANG TIAP TAHUN</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Tidak berulang</item>
+        <item>Setiap hari</item>
+        <item>Setiap minggu</item>
+        <item>Setiap bulan</item>
+        <item>Setiap tahun</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>setiap Minggu pertama</item>
+        <item>setiap Minggu kedua</item>
+        <item>setiap Minggu ketiga</item>
+        <item>setiap Minggu keempat</item>
+        <item>setiap Minggu terakhir</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>setiap Senin pertama</item>
+        <item>setiap Senin kedua</item>
+        <item>setiap Senin ketiga</item>
+        <item>setiap Senin keempat</item>
+        <item>setiap Senin terakhir</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>setiap Selasa pertama</item>
+        <item>setiap Selasa kedua</item>
+        <item>setiap Selasa ketiga</item>
+        <item>setiap Selasa keempat</item>
+        <item>setiap Selasa terakhir</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>setiap Rabu pertama</item>
+        <item>setiap Rabu kedua</item>
+        <item>setiap Rabu ketiga</item>
+        <item>setiap Rabu keempat</item>
+        <item>setiap Rabu terakhir</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>setiap Kamis pertama</item>
+        <item>setiap Kamis kedua</item>
+        <item>setiap Kamis ketiga</item>
+        <item>setiap Kamis keempat</item>
+        <item>setiap Kamis terakhir</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>setiap Jumat pertama</item>
+        <item>setiap Jumat kedua</item>
+        <item>setiap Jumat ketiga</item>
+        <item>setiap Jumat keempat</item>
+        <item>setiap Jumat terakhir</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>setiap Sabtu pertama</item>
+        <item>setiap Sabtu kedua</item>
+        <item>setiap Sabtu ketiga</item>
+        <item>setiap Sabtu keempat</item>
+        <item>setiap Sabtu terakhir</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>Inning pertama</item>
+        <item>Inning kedua</item>
+        <item>Inning ketiga</item>
+        <item>Inning keempat</item>
+        <item>Inning kelima</item>
+        <item>Inning keenam</item>
+        <item>Inning ketujuh</item>
+        <item>Inning kedelapan</item>
+        <item>Inning kesembilan</item>
+        <item>Inning kesepuluh</item>
+        <item>Inning kesebelas</item>
+        <item>Inning kedua belas</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>Top ke-1</item>
+        <item>Top ke-2</item>
+        <item>Top ke-3</item>
+        <item>Top ke-4</item>
+        <item>Top ke-5</item>
+        <item>Top ke-6</item>
+        <item>Top ke-7</item>
+        <item>Top ke-8</item>
+        <item>Top ke-9</item>
+        <item>Top ke-10</item>
+        <item>Top ke-11</item>
+        <item>Top ke-12</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>Bot ke-1</item>
+        <item>Bot ke-2</item>
+        <item>Bot ke-3</item>
+        <item>Bot ke-4</item>
+        <item>Bot ke-5</item>
+        <item>Bot ke-6</item>
+        <item>Bot ke-7</item>
+        <item>Bot ke-8</item>
+        <item>Bot ke-9</item>
+        <item>Bot ke-10</item>
+        <item>Bot ke-11</item>
+        <item>Bot ke-12</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>Afrikans (Afrika Selatan)</item>
+        <item>Arab (Aljazair)</item>
+        <item>Arab (Mesir)</item>
+        <item>Arab (Irak)</item>
+        <item>Arab (Israel)</item>
+        <item>Arab (Yordania)</item>
+        <item>Arab (Kuwait)</item>
+        <item>Arab (Lebanon)</item>
+        <item>Arab (Libya)</item>
+        <item>Arab (Maroko)</item>
+        <item>Arab (Qatar)</item>
+        <item>Arab (Arab Saudi)</item>
+        <item>Arab (Sudan)</item>
+        <item>Arab (Suriah)</item>
+        <item>Arab (Tunisia)</item>
+        <item>Arab (Uni Emirat Arab)</item>
+        <item>Arab (Yaman)</item>
+        <item>Belarusia (Belarus)</item>
+        <item>Bengali (Bangladesh)</item>
+        <item>Bulgaria (Bulgaria)</item>
+        <item>Katala (Spanyol)</item>
+        <item>China, Mandarin (China, Sederhana)</item>
+        <item>China, Mandarin (Hong Kong, Sederhana)</item>
+        <item>China, Mandarin (Hong Kong, Tradisional)</item>
+        <item>China, Mandarin (Singapura, Sederhana)</item>
+        <item>China, Mandarin (Taiwan, Sederhana)</item>
+        <item>China, Mandarin (Taiwan, Tradisional)</item>
+        <item>China, Yue (China, Sederhana)</item>
+        <item>China, Yue (Hong Kong, Tradisional)</item>
+        <item>Kroat (Kroasia)</item>
+        <item>Cheska (Republik Cheska)</item>
+        <item>Dansk (Denmark)</item>
+        <item>Belanda (Belgia)</item>
+        <item>Belanda (Belanda)</item>
+        <item>Inggris (Generik)</item>
+        <item>Inggris (Australia)</item>
+        <item>Inggris (Bangladesh)</item>
+        <item>Inggris (Kanada)</item>
+        <item>Inggris (Hong Kong)</item>
+        <item>Inggris (India)</item>
+        <item>Inggris (Irlandia)</item>
+        <item>Inggris (Kenya)</item>
+        <item>Inggris (Malaysia)</item>
+        <item>Inggris (Selandia Baru)</item>
+        <item>Inggris (Nigeria)</item>
+        <item>Inggris (Pakistan)</item>
+        <item>Inggris (Filipina)</item>
+        <item>Inggris (Singapura)</item>
+        <item>Inggris (Afrika Selatan)</item>
+        <item>Inggris (Sudan)</item>
+        <item>Inggris (Tanzania)</item>
+        <item>Inggris (Uganda)</item>
+        <item>Inggris (Britania)</item>
+        <item>Inggris (AS)</item>
+        <item>Esti (Estonia)</item>
+        <item>Filipino (Filipina)</item>
+        <item>Suomi (Finlandia)</item>
+        <item>Prancis (Belgia)</item>
+        <item>Prancis (Kanada)</item>
+        <item>Prancis (Prancis)</item>
+        <item>Prancis (Swiss)</item>
+        <item>Galisia (Spanyol)</item>
+        <item>Jerman (Austria)</item>
+        <item>Jerman (Jerman)</item>
+        <item>Jerman (Swiss)</item>
+        <item>Jerman (Liechtenstein)</item>
+        <item>Yunani (Yunani)</item>
+        <item>Ibrani (Israel)</item>
+        <item>Hindi (India)</item>
+        <item>Magyar (Hungaria)</item>
+        <item>Islan (Islandia)</item>
+        <item>Indonesia (Indonesia)</item>
+        <item>Gaelig (Irlandia)</item>
+        <item>Ndebele (Afrika Selatan)</item>
+        <item>Xhosa (Afrika Selatan)</item>
+        <item>Zulu (Afrika Selatan)</item>
+        <item>Italia (Italia)</item>
+        <item>Italia (Swiss)</item>
+        <item>Jepang (Jepang)</item>
+        <item>Korea (Korea Selatan)</item>
+        <item>Latvi (Latvia)</item>
+        <item>Lituavi (Lituania)</item>
+        <item>Melayu (Malaysia)</item>
+        <item>Melayu (Singapura)</item>
+        <item>Bokmål (Norwegia)</item>
+        <item>Norsk (Norwegia)</item>
+        <item>Farsi (Iran)</item>
+        <item>Polski (Polandia)</item>
+        <item>Portugis (Angola)</item>
+        <item>Portugis (Brasil)</item>
+        <item>Portugis (Portugal)</item>
+        <item>Rumania (Rumania)</item>
+        <item>Rusia (Belarus)</item>
+        <item>Rusia (Rusia)</item>
+        <item>Pedi (Afrika Selatan)</item>
+        <item>Serb (Serbia, Sirilik)</item>
+        <item>Sotho (Afrika Selatan)</item>
+        <item>Tswana (Afrika Selatan)</item>
+        <item>Swazi (Afrika Selatan)</item>
+        <item>Slovak (Slovakia)</item>
+        <item>Sloven (Slovenia)</item>
+        <item>Spanyol (Argentina)</item>
+        <item>Spanyol (Bolivia)</item>
+        <item>Spanyol (Cile)</item>
+        <item>Spanyol (Kolombia)</item>
+        <item>Spanyol (Kosta Rika)</item>
+        <item>Spanyol (Kuba)</item>
+        <item>Spanyol (Republik Dominika)</item>
+        <item>Spanyol (Ekuador)</item>
+        <item>Spanyol (El Salvador)</item>
+        <item>Spanyol (Guatemala)</item>
+        <item>Spanyol (Honduras)</item>
+        <item>Spanyol (Meksiko)</item>
+        <item>Spanyol (Nikaragua)</item>
+        <item>Spanyol (Panama)</item>
+        <item>Spanyol (Paraguay)</item>
+        <item>Spanyol (Peru)</item>
+        <item>Spanyol (Puerto Riko)</item>
+        <item>Spanyol (Spanyol)</item>
+        <item>Spanyol (AS)</item>
+        <item>Spanyol (Uruguay)</item>
+        <item>Spanyol (Venezuela)</item>
+        <item>Swahili (Kenya)</item>
+        <item>Swahili (Tanzania)</item>
+        <item>Swahili (Uganda)</item>
+        <item>Swensk (Finlandia)</item>
+        <item>Swensk (Swedia)</item>
+        <item>Thai (Thailand)</item>
+        <item>Venda (Afrika Selatan)</item>
+        <item>Turki (Turki)</item>
+        <item>Ukraina (Ukraina)</item>
+        <item>Urdu (Pakistan)</item>
+        <item>Vietnam (Vietnam)</item>
+        <item>Xitsonga (Afrika Selatan)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Hari ini</item>
+        <item>Besok</item>
+        <item>Sesekali</item>
+        <item>Setel tanggal…</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Pagi</item>
+        <item>Siang/sore</item>
+        <item>Petang</item>
+        <item>Malam</item>
+        <item>Sepanjang hari</item>
+        <item>Setel waktu…</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Tiba</item>
+        <item>Berangkat</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Rumah</item>
+        <item>Kantor</item>
+        <item>Setel lokasi...</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>Sambungan internet ini tidak dapat diandalkan untuk saat ini.</item>
+        <item>Saat ini, sambungan internet ini tidak dapat diandalkan.</item>
+        <item>Sambungan internet ini tidak stabil untuk saat ini.</item>
+        <item>Saat ini, sambungan internet ini tidak stabil.</item>
+        <item>Sambungan internet ini tidak cukup kuat untuk saat ini.</item>
+        <item>Saat ini, sambungan internet ini tidak cukup kuat.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>baca</item>
+        <item>baca pesan</item>
+        <item>baca SMS itu</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>balas</item>
+        <item>kirim balasan</item>
+        <item>kirim balasan</item>
+        <item>kirim balasan untuk sms</item>
+        <item>kirim balasan untuk ini</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>menelepon kembali pengirim pesan terakhir</item>
+        <item>telepon dia</item>
+        <item>telepon dia kembali</item>
+        <item>telepon dia</item>
+        <item>telepon dia kembali</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">ডিআরএম সংরক্ষিত কনটেন্ট স্টোরেজ</string>
+    <string name="permlab_accessDrm">ডিআরএম কনটেন্টে প্রবেশাধিকার</string>
+    <string name="permdesc_accessDrm">ডিআরএম সংরক্ষিত কনটেন্টে প্রবেশ করতে অ্যাপকে অনুমতি দেয়।</string>
+    <string name="permlab_installDrm">ডিআরএম কনটেন্ট ইনস্টল করুন</string>
+    <string name="permdesc_installDrm">ডিআরএম সংরক্ষিত কনটেন্ট ইনস্টল করতে অ্যাপকে অনুমতি দেয়।</string>
+</resources>

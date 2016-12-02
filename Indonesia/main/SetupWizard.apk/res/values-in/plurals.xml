@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Mematikan dalam %d detik...</item>
+        <item quantity="one">Mematikan dalam 1 detik...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Masukkan kartu SIM</item>
+        <item quantity="one">Masukkan kartu SIM</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Untuk memasukkan kartu SIM, baca petunjuk yang disertakan dengan tablet Anda.</item>
+        <item quantity="one">Untuk memasukkan kartu SIM, baca petunjuk yang disertakan dengan tablet Anda.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Untuk memasukkan kartu SIM, baca petunjuk yang disertakan dengan perangkat Anda.</item>
+        <item quantity="one">Untuk memasukkan kartu SIM, baca petunjuk yang disertakan dengan perangkat Anda.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Untuk memasukkan kartu SIM, baca petunjuk yang disertakan dengan ponsel Anda.</item>
+        <item quantity="one">Untuk memasukkan kartu SIM, baca petunjuk yang disertakan dengan ponsel Anda.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_not_found">Tidak menemukan apl untuk tangani aksi ini</string>
+    <string name="copy_message_text_success">Tersalin</string>
+    <string name="back_to_message_list">Kembali ke daftar pesan</string>
+    <string name="menu_forward">Teruskan</string>
+    <string name="menu_lock">Bintang</string>
+    <string name="menu_unlock">Hapus bintang</string>
+    <string name="copy_message_text">Salin</string>
+    <string name="delete_message">Hapus</string>
+    <string name="view_message_details">Lihat rincian</string>
+    <string name="message_details_title">Rincian pesan</string>
+    <string name="message_type_label">"Tipe: "</string>
+    <string name="text_message">Pesan teks</string>
+    <string name="received_label">"Diterima: "</string>
+    <string name="from_label">"Dari: "</string>
+    <string name="sent_label">"Terkirim: "</string>
+    <string name="sms_card_partner_label">"Partner kartu SMS: "</string>
+    <string name="sms_card_teddy_mobile">Teddy Mobile</string>
+    <string name="confirm_dialog_title">Hapus?</string>
+    <string name="confirm_dialog_locked_title">Hapus pesan terkunci?</string>
+    <string name="confirm_delete_conversation">Hapus semua?</string>
+    <string name="confirm_delete_all_conversations">Hapus semua percakapan?</string>
+    <string name="confirm_delete_group_message">Hapus pesan grup?</string>
+    <string name="confirm_delete_message">Hapus pesan ini?</string>
+    <string name="confirm_delete_locked_message">Hapus pesan terkunci ini?</string>
+    <string name="delete">Hapus</string>
+    <string name="repayment_title">Pengembalian</string>
+    <string name="repayment_way">Metode pengembalian</string>
+    <string name="repayment_network_error">Ada masalah dengan jaringan Anda</string>
+    <string name="smart_messages_network_allow_title">Butuh koneksi internet</string>
+    <string name="smart_messages_network_allow_message">Mi Message perlu terhubung ke jaringan agar layanannya dapat bekerja dengan normal. Izinkan?</string>
+</resources>

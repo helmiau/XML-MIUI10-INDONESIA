@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="check_in_info">
+        <item quantity="other">Anda telah absen masuk %1$d hari</item>
+    </plurals>
+    <plurals name="time_in_day">
+        <item quantity="other">%1$d hari lalu</item>
+    </plurals>
+    <plurals name="time_in_hour">
+        <item quantity="other">%1$d jam yang lalu</item>
+    </plurals>
+    <plurals name="time_in_minute">
+        <item quantity="other">%1$d menit lalu</item>
+    </plurals>
+    <plurals name="time_in_second">
+        <item quantity="other">%1$d detik lalu</item>
+    </plurals>
+</resources>

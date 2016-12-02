@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="see_n_more">
+        <item quantity="other">%1$d lainnya</item>
+        <item quantity="one">%1$d lainnya</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Berakhir %1$d hari lagi</item>
+        <item quantity="one">Berakhir %1$d hari lagi</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">Berakhir %1$d jam lagi</item>
+        <item quantity="one">Berakhir %1$d jam lagi</item>
+    </plurals>
+</resources>
