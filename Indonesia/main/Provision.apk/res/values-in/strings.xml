@@ -2,6 +2,7 @@
 <resources>
     <string name="welcome">Selamat datang</string>
     <string name="app_name">Ketentuan</string>
+    <string name="system_navigation_mode">Mode navigasi sistem</string>
     <string name="input_method_setting">Pilih keyboard</string>
     <string name="input_method_category">Pilih keyboard bawaan yang akan Anda gunakan untuk menulis email, catatan, dan lainnya. Anda juga dapat menginstal keyboard pihak ketiga lainnya nanti.</string>
     <string name="provision_inputmethod_policy_description">"
@@ -13,23 +14,29 @@ Lihat Kebijakan Privasi keyboard terpilih."</string>
     <string name="sim_card_detecting_title">Periksa kartu SIM</string>
     <string name="sim_card_detection_info">Untuk memasukkan kartu SIM, baca instruksi yang tersedia bersama dengan perangkat.</string>
     <string name="sim_card_detecting">Memeriksa kartu SIM…</string>
+    <string name="sim_card_detecting_check">Tidak dapat menemukan kartu SIM. Pastikan kartu SIM terpasang dengan benar dan saldo Anda mencukupi.</string>
+    <string name="sim_card_detection_mobile_not_available">Kartu SIM tidak dapat terhubung ke jaringan</string>
+    <string name="sim_scard_detecting_check_mobile_not_available">Kartu SIM tidak terhubung ke jaringan operator yang valid. Pastikan Anda memiliki saldo yang cukup dan coba hubungkan lagi.</string>
+    <string name="sim_card_detecting_confirm_turn_on_network">Izinkan terhubung ke jaringan data seluler? Jika diizinkan, maka kartu SIM yang Anda masukkan akan digunakan untuk terhubung ke jaringan data seluler.</string>
     <string name="other_settings">Setelan tambahan</string>
     <string name="other_settings_location">Lokasi</string>
     <string name="other_settings_location_summary">Izinkan apl akses lokasi Anda</string>
     <string name="other_settings_user_experience">Program Pengalaman Pengguna</string>
-    <string name="other_settings_user_experience_summary">Bantu tingkatkan produk dan layanan dengan mengirim data penggunaan anonim.</string>
+    <string name="other_settings_user_experience_summary">Bantu tingkatkan produk dan layanan kami dengan berbagi statistik penggunaan Anda dengan kami. Lihat rincian</string>
+    <string name="other_settings_user_experience_summary_index">Lihat rincian</string>
     <string name="other_settings_upload_debug_log_title">Otomatis kirim data diagnostik</string>
-    <string name="other_settings_upload_debug_log_summary">Informasi yang kami kumpulkan akan digunakan untuk mencari dan menganalisa masalah di sistem dan dapat mengandung informasi pribadi. Tak ada data yang akan digunakan untuk identifikasi Anda secara personal.</string>
+    <string name="other_settings_upload_debug_log_summary">Statistik penggunaan yang membantu kami menemukan dan memecahkan masalah mungkin berisi info pribadi Anda</string>
     <string name="other_settings_auto_update">Otomatis perbarui</string>
-    <string name="other_settings_auto_update_summary">MIUI akan pilih waktu yang paling sesuai untuk unduh dan instal pembaruan.</string>
-    <string name="other_settings_mifg_online_content">Komedi putar Wallpaper</string>
-    <string name="other_settings_mifg_online_content_summary">Dapatkan wallpaper baru dikirim ke Layar kunci setiap hari.</string>
+    <string name="other_settings_auto_update_summary">MIUI akan memilih waktu yang terbaik untuk instal pembaruan</string>
+    <string name="other_settings_ad_enable">Personalisasi rekomendasi iklan</string>
+    <string name="other_settings_ad_enable_summary">Menerima personalisasi iklan berdasarkan data perilaku Anda</string>
     <string name="back">Kembali</string>
     <string name="next">Berikutnya</string>
     <string name="skip_underline">Lewati tahap ini</string>
     <string name="sim_dectection_next">Lanjutkan</string>
     <string name="shut_down">Daya mati</string>
     <string name="sim_redetection">Periksa lagi</string>
+    <string name="navigation_picker_gesture_guide">Panduan gerakan</string>
     <string name="congratulation_title">Pengaturan selesai</string>
     <string name="congratulation_label">Selamat menggunakan!​</string>
     <string name="pref_title_voice_slot">Kartu SIM panggilan prioritas</string>
@@ -40,9 +47,13 @@ Lihat Kebijakan Privasi keyboard terpilih."</string>
     <string name="terms_of_use">Syarat dan Ketentuan</string>
     <string name="terms_of_use_label">"Privasi Anda sangat penting bagi kami. Mohon baca Perjanjian Pengguna dan Kebijakan Privasi agar memahami informasi yang kami kumpulkan, bagaimana kami menggunakannya, dan pilihan apa yang tersedia untuk Anda.
 
-Anda juga harus menyetujui Perjanjian Pengguna dan Kebijakan Privasi sebelum mengunakan MIUI. Anda perlu terhubung ke internet untuk mengaktivasi Layanan Mi, Cari perangkat dan Mi Home."</string>
+Anda juga harus menyetujui Perjanjian Pengguna dan Kebijakan Privasi sebelum mengunakan MIUI. Layanan Mi, layanan aktivasi Mi SIM, Mi Cloud, Cari perangkat, Layar utama, Pusat permainan, komponen sistem MAB, MIUI Daemon dan MSA, Layanan Terjemahan, Quick apps, App vault, statistik, smart cards, Mi Link dan komponen Akun Mi akan terhubung ke internet dan memperoleh info lokasi Anda."</string>
+    <string name="terms_of_use_label_gms">"Privasi Anda sangat penting bagi kami. Mohon baca Perjanjian Pengguna dan Kebijakan Privasi agar memahami informasi yang kami kumpulkan, bagaimana kami menggunakannya, dan pilihan apa yang tersedia untuk Anda.
+
+Anda juga harus menyetujui Perjanjian Pengguna dan Kebijakan Privasi sebelum mengunakan MIUI. Layanan Mi, layanan aktivasi Mi SIM, Mi Cloud, Cari perangkat, Layar utama, Pusat permainan, komponen sistem MAB, MiuiDaemon dan MSA, Layanan Terjemahan, Quick apps, App vault, statistik, smart cards, Mi Link, Mi Akun, dan komponen layanan Google Play akan terhubung ke internet dan memperoleh info lokasi Anda."</string>
     <string name="user_agreement">Perjanjian Pengguna</string>
     <string name="privacy_policy">Kebijakan Privasi</string>
+    <string name="application_permissions">Perizinan apl</string>
     <string name="agree">Setuju</string>
     <string name="disagree">Batal</string>
     <string name="setting_locale">Mengatur lokasi…</string>
@@ -51,12 +62,31 @@ Anda juga harus menyetujui Perjanjian Pengguna dan Kebijakan Privasi sebelum men
     <string name="miui_privacy_policy_no_network">Anda tidak memiliki koneksi internet. Lihat Kebijakan Privasi di %s.</string>
     <string name="locale_picker_title">Pilih lokasi Anda</string>
     <string name="install_preinstall_app">Memuat aplikasi…</string>
-    <string name="title_fingerprint">Tambah sidik jari Anda</string>
+    <string name="title_fingerprint">Setel sandi</string>
+    <string name="item_fingerprint">Sidik jari</string>
+    <string name="item_lock_screen_password">Hanya kunci layar</string>
     <string name="desc_fingerprint">Gunakan sidik jari untuk membuka kunci perangkat, verifikasi transaksi Mi Pay, atau masuk ke apl dan layanan.</string>
+    <string name="desc_extra_fingerprint" />
     <string name="next_fingerprint">Berikutnya</string>
+    <string name="desc_extra_international_fingerprint" />
     <string name="desc_international_fingerprint">Gunakan sidik jari untuk buka kunci perangkat, atau masuk ke apl dan layanan.</string>
     <string name="content_description_start">Mulai</string>
-    <string name="content_description_miui_version">MIUI 8</string>
+    <string name="start_up_slogan">Didesain untuk pengalaman layar penuh</string>
+    <string name="content_description_miui_version">MIUI 9</string>
     <string name="content_description_complete">Selesai</string>
-    <string name="content_description_language_picker">Pilih bahasa</string>
+    <string name="language_picker_other_languages_title">Bahasa lainnya</string>
+    <string name="language_settings">Pilih bahasa</string>
+    <string name="navigation_picker_radio_text_full_screen">Gerakan layar penuh</string>
+    <string name="navigation_picker_radio_text_virtual_key">Tombol</string>
+    <string name="congratulation_swipe">Geser ke atas untuk masuk ke sistem</string>
+    <string name="enable_accessibility_dialog_message">Anda telah menghidupkan TalkBack dengan menekan layar dengan 2 jari selama lebih dari 10 dtk. TalkBack memberikan masukan suara untuk orang-orang dengan gangguan penglihatan. Jika Anda menghidupkannya secara tidak sengaja, ketuk tombol Batal, dan ketuk 2x layar.</string>
+    <string name="enable_accessibility_dialog_positive_btn">Oke</string>
+    <string name="enable_accessibility_dialog_negative_btn">Batal</string>
+    <string name="cm_terms_title">Perjanjian Operator Jaringan Seluler</string>
+    <string name="cm_terms_content">Untuk meningkatkan layanan, operator jaringan seluler yang Anda pilih kemungkinan akan mengunggah data pribadi Anda dan info perangkat ke servernya menggunakan jaringan Wi-Fi atau data seluler. Info ini hanya digunakan untuk kepentingan statistik, demi meningkatkan kualitas layanan dan menyediakan konten yang lebih dipersonalisasi. Info ini tidak akan digunakan untuk mengidentifikasi Anda secara personal dan tidak akan diberikan ke pihak ketiga.</string>
+    <string name="enable_accessibility_canceled">Aksesibilitas dibatalkan.</string>
+    <string name="accessibility_enabled">Aksesibilitas diaktifkan.</string>
+    <string name="continue_to_enable_accessibility">Tekan lama dengan dua jari untuk mengaktifkan aksesibilitas.</string>
+    <string name="voice_assist_title">Bangunkan dengan suara</string>
+    <string name="voice_assist_desp">Ucapkan \"Mi AI\" ke telepon Anda. Mi AI akan mengenali suara Anda dan dapat mengontrol perangkat Anda.</string>
 </resources>

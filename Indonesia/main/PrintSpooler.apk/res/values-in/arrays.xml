@@ -4,6 +4,11 @@
         <item>Hitam &amp; Putih</item>
         <item>Warna</item>
     </string-array>
+    <string-array name="duplex_mode_labels">
+        <item>Tidak ada</item>
+        <item>Tepi panjang</item>
+        <item>Tepi pendek</item>
+    </string-array>
     <string-array name="orientation_labels">
         <item>Potret</item>
         <item>Lanskap</item>

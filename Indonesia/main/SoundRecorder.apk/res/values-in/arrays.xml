@@ -26,6 +26,12 @@
         <item>4</item>
     </string-array>
     <string-array name="record_scenes_summaries">
+        <item>Rekam musik dengan kualitas yang lebih baik</item>
+        <item>Dekatkan mic ke sumber suara untuk kualitas yang lebih baik</item>
+        <item>Letakkan telepon di antara 2 orang agar dapat rekam dengan jelas</item>
+        <item>Teknologi rentang dinamis tinggi memungkinkan mikrofon menangkap suara lebih detil</item>
+    </string-array>
+    <string-array name="record_scenes_summaries_stereo">
         <item>Rekam melalui 2 saluran, dengar suara stereo di earphone</item>
         <item>Dekatkan mic ke sumber suara untuk kualitas yang lebih baik</item>
         <item>Letakkan telepon di antara 2 orang agar dapat rekam dengan jelas</item>

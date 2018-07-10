@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="transformation_entries">
-        <item>Overslide</item>
-        <item>Meluncur</item>
-        <item>Crossfade</item>
-        <item>Berguling</item>
-        <item>Halaman</item>
-        <item>Riam</item>
-        <item>Berputar</item>
-        <item>Kubus</item>
-    </string-array>
-    <string-array name="wallpaper_scroll_entries">
-        <item>Tema bawaan</item>
-        <item>Tengah</item>
-        <item>Kiri</item>
-        <item>Kanan</item>
-    </string-array>
     <string-array name="cell_layout_size_entries">
         <item>4x4</item>
         <item>4x5</item>
@@ -24,9 +8,10 @@
         <item>4x4</item>
         <item>4x5</item>
     </string-array>
-    <string-array name="gadget_weather_theme_type_entries">
-        <item>Bawaan</item>
-        <item>Klasik</item>
+    <string-array name="editing_mode_entries">
+        <item>Wallpaper</item>
+        <item>Widget</item>
+        <item>Setelan</item>
     </string-array>
     <string-array name="gadget_weather_image">
         <item>Cerah</item>
@@ -55,14 +40,23 @@
         <item>Berdebu</item>
         <item>Kabut</item>
     </string-array>
-    <string-array name="editing_mode_entries">
-        <item>Tema</item>
-        <item>Widget</item>
-        <item>Wallpaper</item>
-        <item>Efek</item>
-        <item>Screen cells</item>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Bawaan</item>
+        <item>Klasik</item>
     </string-array>
-    <string-array name="quality_business_devices">
-        <item>Lithium</item>
+    <string-array name="transformation_entries">
+        <item>Meluncur</item>
+        <item>Crossfade</item>
+        <item>Berguling</item>
+        <item>Halaman</item>
+        <item>Riam</item>
+        <item>Rotasi</item>
+        <item>Kubus</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Tema bawaan</item>
+        <item>Tengah</item>
+        <item>Kiri</item>
+        <item>Kanan</item>
     </string-array>
 </resources>

@@ -4,5 +4,5 @@
     <string name="mms_provider_label">MMS</string>
     <string name="mms_sms_provider_label">Pesan</string>
     <string name="siminfo_default_name">SIM %d</string>
-    <string name="app_label">Penyimpanan Ponsel/Pesan</string>
+    <string name="app_label">Penyimpanan Ponsel dan Pesan</string>
 </resources>

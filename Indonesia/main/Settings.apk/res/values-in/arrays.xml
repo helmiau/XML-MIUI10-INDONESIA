@@ -1,8 +1,189 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="status_bar_style_entries">
-        <item>Gabung</item>
-        <item>Pisah</item>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Memindai…</item>
+        <item>Menghubungkan…</item>
+        <item>Mengotentikasi…</item>
+        <item>Memperoleh alamat IP…</item>
+        <item>Terhubung</item>
+        <item>Ditangguhkan</item>
+        <item>Memutuskan hubungan…</item>
+        <item>Tidak terhubung</item>
+        <item>Gagal</item>
+        <item>Terblokir</item>
+        <item>Sementara menghindari koneksi yang buruk</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Memindai…</item>
+        <item>Menghubungkan ke %1$s…</item>
+        <item>Mengotentikasi dengan %1$s…</item>
+        <item>Memperoleh alamat IP dari %1$s…</item>
+        <item>Terhubung ke %1$s</item>
+        <item>Ditangguhkan</item>
+        <item>Memutuskan hubungan dengan %1$s…</item>
+        <item>Tidak terhubung</item>
+        <item>Gagal</item>
+        <item>Terblokir</item>
+        <item>Sementara menghindari koneksi yang buruk</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Folder notifikasi</item>
+        <item>Cek konten DRM saja</item>
+        <item>Selalu cek</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Jangan gunakan pemeriksaan HDCP</item>
+        <item>Gunakan HDCP cek untuk konten DRM saja</item>
+        <item>Selalu gunakan HDCP cek</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Mati</item>
+        <item>64KB</item>
+        <item>256KB</item>
+        <item>1MB</item>
+        <item>4MB</item>
+        <item>16MB</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Mati</item>
+        <item>64KB</item>
+        <item>256KB</item>
+        <item>1MB</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Mati</item>
+        <item>64KB per log buffer</item>
+        <item>256KB per log buffer</item>
+        <item>1MB per log buffer</item>
+        <item>4MB per log buffer</item>
+        <item>16MB per log buffer</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animasi mati</item>
+        <item>Skala animasi 0,5x</item>
+        <item>Skala animasi 1x</item>
+        <item>Skala animasi 1.5x</item>
+        <item>Skala animasi 2x</item>
+        <item>Skala animasi 5x</item>
+        <item>Skala animasi 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animasi mati</item>
+        <item>Skala animasi 0,5x</item>
+        <item>Skala animasi 1x</item>
+        <item>Skala animasi 1.5x</item>
+        <item>Skala animasi 2x</item>
+        <item>Skala animasi 5x</item>
+        <item>Skala animasi 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animasi mati</item>
+        <item>Skala animasi 0,5x</item>
+        <item>Skala animasi 1x</item>
+        <item>Skala animasi 1.5x</item>
+        <item>Skala animasi 2x</item>
+        <item>Skala animasi 5x</item>
+        <item>Skala animasi 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Tak ada</item>
+        <item>480p</item>
+        <item>480p (aman)</item>
+        <item>720p</item>
+        <item>720p (aman)</item>
+        <item>1080p</item>
+        <item>1080p (aman)</item>
+        <item>4K</item>
+        <item>4K (aman)</item>
+        <item>4K (ditingkatkan)</item>
+        <item>4K (ditingkatkan, aman)</item>
+        <item>720p, 1080p (dual layar)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Tidak ada</item>
+        <item>Logcat</item>
+        <item>Systrace (Grafik)</item>
+        <item>Call stack di glGetError</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Mati</item>
+        <item>Gambar daerah klik non-persegi panjang dengan warna biru</item>
+        <item>Beri highlight hijau untuk perintah gambar yang teruji</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Mati</item>
+        <item>Ditampilkan seperti bar di layar</item>
+        <item>Di adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Mati</item>
+        <item>Tampilkan area overdraw</item>
+        <item>Tampilkan area untuk deuteranomali</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Batas standar</item>
+        <item>Tidak ada proses latar belakang</item>
+        <item>Maksimal 1 proses</item>
+        <item>Maksimal 2 proses</item>
+        <item>Maksimal 3 proses</item>
+        <item>Maksimal 4 proses</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Mengisi daya</item>
+        <item>MTP (Protokol transfer media)</item>
+        <item>PTP (Protokol transfer gambar)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Sumber audio</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Sangat lambat</item>
+        <item>Lambat</item>
+        <item>Normal</item>
+        <item>Cepat</item>
+        <item>Lebih cepat</item>
+        <item>Sangat cepat</item>
+        <item>Cepat</item>
+        <item>Sangat cepat</item>
+        <item>Paling cepat</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Cerah (default)</item>
+        <item>Natural</item>
+        <item>Standar</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Warna yang ditingkatkan</item>
+        <item>Warna alami seperti yang dilihat oleh mata</item>
+        <item>Pengoptimalan warna untuk konten digital</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="check_importance_entries">
+        <item>Rekomendasi</item>
+        <item>Penting</item>
+        <item>Tidak penting</item>
+    </string-array>
+    <string-array name="check_importance_summary">
+        <item>MIUI akan memutuskan notifikasi yang mana yang akan ditampilkan langsung</item>
+        <item>Notifikasi akan ditampilkan di bar notifikasi</item>
+        <item>Notifikasi akan ditampilkan di folder terpisah</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>Amerika</item>
@@ -45,57 +226,20 @@
     </string-array>
     <string-array name="entries_font_size">
         <item>Kecil</item>
-        <item>Normal</item>
+        <item>Default</item>
         <item>Besar</item>
-        <item>Raksasa</item>
-    </string-array>
-    <string-array name="tts_rate_entries">
-        <item>Sangat lambat</item>
-        <item>Lambat</item>
-        <item>Normal</item>
-        <item>Cepat</item>
-        <item>Lebih cepat</item>
-        <item>Sangat cepat</item>
-        <item>Cepat sekali</item>
-        <item>Sangat cepat sekali</item>
-        <item>Tercepat</item>
-    </string-array>
-    <string-array name="tts_pitch_entries">
-        <item>Sangat rendah</item>
-        <item>Rendah</item>
-        <item>Normal</item>
-        <item>Tinggi</item>
-        <item>Sangat tinggi</item>
-    </string-array>
-    <string-array name="wifi_status">
-        <item></item>
-        <item>Memindai...</item>
-        <item>Menyambung…</item>
-        <item>Mengautentikasi…</item>
-        <item>Mendapatkan alamat IP…</item>
-        <item>Terhubung</item>
-        <item>Ditangguhkan</item>
-        <item>Memutus sambungan...</item>
-        <item>Sambungan terputus</item>
-        <item>Gagal</item>
-        <item>Dicekal</item>
-        <item>Menghindari sambungan buruk untuk sementara</item>
-    </string-array>
-    <string-array name="wifi_status_with_ssid">
-        <item></item>
-        <item>Memindai...</item>
-        <item>Menyambung ke %1$s…</item>
-        <item>Mengautentikasi dengan %1$s…</item>
-        <item>Mendapatkan alamat IP dari %1$s…</item>
-        <item>Tersambung ke %1$s</item>
-        <item>Ditangguhkan</item>
-        <item>Diputus dari %1$s…</item>
-        <item>Sambungan terputus</item>
-        <item>Gagal</item>
-        <item>Dicekal</item>
-        <item>Menghindari sambungan buruk untuk sementara</item>
+        <item>Terbesar</item>
     </string-array>
     <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
+    </string-array>
+    <string-array name="eap_method_without_sim_auth">
         <item>PEAP</item>
         <item>TLS</item>
         <item>TTLS</item>
@@ -139,10 +283,6 @@
         <item>30 hari terakhir</item>
         <item>Setel alur penggunaan...</item>
     </string-array>
-    <string-array name="sim_card_data_range">
-        <item>4 digit terakhir</item>
-        <item>4 digit pertama</item>
-    </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Otomatis</item>
         <item>Hanya 5 GHz</item>
@@ -165,7 +305,7 @@
         <item>GTC</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
-        <item>Tak Satu Pun</item>
+        <item>Tidak ada</item>
         <item>PAP</item>
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
@@ -192,9 +332,22 @@
         <item>IPv4/IPv6</item>
     </string-array>
     <string-array name="bearer_entries">
-        <item>LTE</item>
-        <item>eHRPD</item>
         <item>Tidak ditentukan</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
     </string-array>
     <string-array name="mvno_type_entries">
         <item>Tidak ada</item>
@@ -210,7 +363,7 @@
     <string-array name="app_ops_categories">
         <item>Lokasi</item>
         <item>Pribadi</item>
-        <item>Perpesanan</item>
+        <item>Pesan</item>
         <item>Media</item>
         <item>Perangkat</item>
     </string-array>
@@ -226,7 +379,7 @@
         <item>membaca kalender</item>
         <item>ubah kalender</item>
         <item>pemindaian Wi-Fi</item>
-        <item>pemberitahuan</item>
+        <item>notifikasi</item>
         <item>pemindaian seluler</item>
         <item>telepon</item>
         <item>baca SMS</item>
@@ -240,7 +393,7 @@
         <item>tulis ICC SMS</item>
         <item>ubah setelan</item>
         <item>gambar di atas</item>
-        <item>akses pemberitahuan</item>
+        <item>akses notifikasi</item>
         <item>kamera</item>
         <item>rekam audio</item>
         <item>putar audio</item>
@@ -253,15 +406,32 @@
         <item>volume dering</item>
         <item>volume media</item>
         <item>volume alarm</item>
-        <item>volume pemberitahuan</item>
+        <item>volume notifikasi</item>
         <item>volume bluetooth</item>
         <item>tetap aktif</item>
         <item>monitor lokasi</item>
         <item>memantau lokasi berdaya tinggi</item>
         <item>dapatkan statistik penggunaan</item>
         <item>bisukan/suarakan mikrofon</item>
+        <item>tampilkan seranta</item>
         <item>media proyek</item>
         <item>aktifkan VPN</item>
+        <item>tulis wallpaper</item>
+        <item>bantu struktur</item>
+        <item>bantu tangkapan layar</item>
+        <item>baca status telepon</item>
+        <item>tambahkan pesan suara</item>
+        <item>gunakan sip</item>
+        <item>proses panggilan keluar</item>
+        <item>sidik jari</item>
+        <item>sensor tubuh</item>
+        <item>baca siaran sel</item>
+        <item>lokasi palsu</item>
+        <item>baca penyimpanan</item>
+        <item>tulis penyimpanan</item>
+        <item>aktifkan layar</item>
+        <item>dapatkan akun</item>
+        <item>jalankan di latar belakang</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Lokasi</item>
@@ -275,7 +445,7 @@
         <item>Membaca kalender</item>
         <item>Ubah kalender</item>
         <item>Lokasi</item>
-        <item>Pemberitahuan pos</item>
+        <item>Notifikasi pos</item>
         <item>Lokasi</item>
         <item>Telepon</item>
         <item>Baca SMS/MMS</item>
@@ -289,7 +459,7 @@
         <item>Tulis SMS/MMS</item>
         <item>Ubah setelan</item>
         <item>Gambar di atas</item>
-        <item>Akses pemberitahuan</item>
+        <item>Akses notifikasi</item>
         <item>Kamera</item>
         <item>Rekam audio</item>
         <item>Putar audio</item>
@@ -302,15 +472,32 @@
         <item>Volume dering</item>
         <item>Volume media</item>
         <item>Volume alarm</item>
-        <item>Volume pemberitahuan</item>
+        <item>Volume notifikasi</item>
         <item>Volume bluetooth</item>
         <item>Tetap aktif</item>
         <item>Lokasi</item>
         <item>Lokasi</item>
         <item>Dapatkan statistik penggunaan</item>
         <item>Bisukan/suarakan mikrofon</item>
+        <item>Tampilkan seranta</item>
         <item>Media proyek</item>
         <item>Aktifkan VPN</item>
+        <item>Tulis wallpaper</item>
+        <item>Bantu struktur</item>
+        <item>Bantu tangkapan layar</item>
+        <item>Baca status telepon</item>
+        <item>Tambahkan pesan suara</item>
+        <item>Gunakan sip</item>
+        <item>Proses panggilan keluar</item>
+        <item>Sidik jari</item>
+        <item>Sensor tubuh</item>
+        <item>Baca siaran sel</item>
+        <item>Lokasi palsu</item>
+        <item>Baca penyimpanan</item>
+        <item>Tulis penyimpanan</item>
+        <item>Aktifkan layar</item>
+        <item>Dapatkan akun</item>
+        <item>Jalankan di latar belakang</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Singkat</item>
@@ -357,101 +544,6 @@
         <item>Kuning berlatar biru</item>
         <item>Khusus</item>
     </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>64 K</item>
-        <item>256 K</item>
-        <item>1 M</item>
-        <item>4 M</item>
-        <item>16 M</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>64 K</item>
-        <item>256 K</item>
-        <item>1 M</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>64 K/penyangga log</item>
-        <item>256 K/penyangga log</item>
-        <item>1 M/penyangga log</item>
-        <item>4 M/penyangga log</item>
-        <item>16 M/penyangga log</item>
-    </string-array>
-    <string-array name="hdcp_checking_titles">
-        <item>Jangan periksa</item>
-        <item>Periksa hanya konten DRM</item>
-        <item>Selalu periksa</item>
-    </string-array>
-    <string-array name="hdcp_checking_summaries">
-        <item>Jangan gunakan pemeriksaan HDCP</item>
-        <item>Gunakan pemeriksaan HDCP untuk konten DRM saja</item>
-        <item>Selalu gunakan pemeriksaan HDCP</item>
-    </string-array>
-    <string-array name="window_animation_scale_entries">
-        <item>Animasi mati</item>
-        <item>Skala animasi 0,5x</item>
-        <item>Skala animasi 1x</item>
-        <item>Skala animasi 1,5x</item>
-        <item>Skala animasi 2x</item>
-        <item>Skala animasi 5x</item>
-        <item>Skala animasi 10x</item>
-    </string-array>
-    <string-array name="transition_animation_scale_entries">
-        <item>Animasi mati</item>
-        <item>Skala animasi 0,5x</item>
-        <item>Skala animasi 1x</item>
-        <item>Skala animasi 1,5x</item>
-        <item>Skala animasi 2x</item>
-        <item>Skala animasi 5x</item>
-        <item>Skala animasi 10x</item>
-    </string-array>
-    <string-array name="animator_duration_scale_entries">
-        <item>Animasi mati</item>
-        <item>Skala animasi 0,5x</item>
-        <item>Skala animasi 1x</item>
-        <item>Skala animasi 1,5x</item>
-        <item>Skala animasi 2x</item>
-        <item>Skala animasi 5x</item>
-        <item>Skala animasi 10x</item>
-    </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>Tidak ada</item>
-        <item>720x480 mdpi</item>
-        <item>720x480 mdpi (aman)</item>
-        <item>1280x720 tvdpi</item>
-        <item>1280x720 tvdpi (aman)</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1920x1080 xhdpi (aman)</item>
-        <item>1280x720 tvdpi dan 1920x1080 xhdpi</item>
-    </string-array>
-    <string-array name="enable_opengl_traces_entries">
-        <item>Tidak ada</item>
-        <item>Logcat</item>
-        <item>Systrace (Grafis)</item>
-        <item>Telepon tumpukan di glGetError</item>
-    </string-array>
-    <string-array name="show_non_rect_clip_entries">
-        <item>Nonaktif</item>
-        <item>Gambar wilayah non-kotak biru</item>
-        <item>Sorot perintah gambar teruji hijau</item>
-    </string-array>
-    <string-array name="track_frame_time_entries">
-        <item>Nonaktif</item>
-        <item>Di layar dalam bentuk batang</item>
-        <item>Di adb shell dumpsys gfxinfo</item>
-    </string-array>
-    <string-array name="debug_hw_overdraw_entries">
-        <item>Nonaktif</item>
-        <item>Tampilkan area overdraw</item>
-        <item>Tampilkan area untuk Buta Warna</item>
-    </string-array>
-    <string-array name="app_process_limit_entries">
-        <item>Batas standar</item>
-        <item>Tanpa proses latar belakang</item>
-        <item>Maksimal 1 proses</item>
-        <item>Maksimal 2 proses</item>
-        <item>Maksimal 3 proses</item>
-        <item>Maksimal 4 proses</item>
-    </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
         <item>L2TP/IPSec VPN dengan kunci pra-bagi</item>
@@ -474,15 +566,11 @@
         <item>Selalu izinkan</item>
     </string-array>
     <string-array name="ram_states">
-        <item>normal</item>
-        <item>menengah</item>
-        <item>rendah</item>
-        <item>kritis</item>
-    </string-array>
-    <string-array name="entries_zen_mode">
-        <item>Nonaktif</item>
-        <item>Gangguan terbatas</item>
-        <item>Tanpa gangguan</item>
+        <item>Normal</item>
+        <item>Sedang</item>
+        <item>Rendah</item>
+        <item>Kritis</item>
+        <item>\?</item>
     </string-array>
     <string-array name="proc_stats_memory_states">
         <item>Normal</item>
@@ -500,11 +588,37 @@
         <item>Layanan (berjalan)</item>
         <item>Layanan (memulai ulang)</item>
         <item>Penerima</item>
-        <item>Utama</item>
+        <item>Beranda</item>
         <item>Aktivitas terakhir</item>
         <item>Disimpan dalam cache (aktivitas)</item>
         <item>Disimpan dalam cache (klien aktivitas)</item>
         <item>Disimpan dalam cache (kosong)</item>
+    </string-array>
+    <string-array name="color_picker">
+        <item>Hijau kebiruan</item>
+        <item>Biru</item>
+        <item>Nila</item>
+        <item>Ungu</item>
+        <item>Merah Muda</item>
+        <item>Merah</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
+        <item>Wi-Fi dipilih</item>
+        <item>Seluler dipilih</item>
+        <item>Khusus Wi-Fi</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_values">
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_without_wifi_only">
+        <item>Wi-Fi dipilih</item>
+        <item>Seluler dipilih</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_values_without_wifi_only">
+        <item>2</item>
+        <item>1</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>Mati</item>
@@ -516,6 +630,10 @@
         <item>Kuat</item>
         <item>Menengah</item>
         <item>Ringan</item>
+    </string-array>
+    <string-array name="ap_identify">
+        <item>Bawaan</item>
+        <item>Hotspot portabel</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Grafik</item>
@@ -554,18 +672,22 @@
         <item>Putih</item>
         <item>Violet</item>
     </string-array>
+    <string-array name="screen_key_position_action">
+        <item>Tombol Menu di kiri, tombol Kembali di kanan</item>
+        <item>Tombol Kembali di kiri, tombol Menu di kanan</item>
+    </string-array>
     <string-array name="screen_key_press_action">
         <item>Tampil apl terkini</item>
         <item>Tampil menu</item>
     </string-array>
-    <string-array name="screen_key_long_press_action">
-        <item>Tak ada</item>
-        <item>Tampilkan apl terkini</item>
-        <item>Jalankan Asisten</item>
-        <item>Jalankan aplikasi Google now</item>
-        <item>Tutup apl terkini</item>
-        <item>Jalankan pencarian cepat</item>
-        <item>Tampil menu</item>
+    <string-array name="key_and_gesture_shortcut_action">
+        <item>long_press_home_key</item>
+        <item>long_press_menu_key</item>
+        <item>long_press_back_key</item>
+        <item>key_combination_power_home</item>
+        <item>key_combination_power_menu</item>
+        <item>key_combination_power_back</item>
+        <item>key_none</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0,5 detik</item>
@@ -575,13 +697,9 @@
     </string-array>
     <string-array name="long_press_volume_down_action">
         <item>Tak ada</item>
-        <item>Mode Ambil gambar cepat (pilih di Kamera)</item>
+        <item>Mode Ambil foto cepat</item>
+        <item>Mode Ambil video cepat</item>
         <item>Pintasan transportasi publik</item>
-    </string-array>
-    <string-array name="long_press_volume_down_action_value">
-        <item>one</item>
-        <item>Street-snap</item>
-        <item>public_transportation_shortcuts</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 detik</item>
@@ -594,7 +712,7 @@
     <string-array name="wfd_status">
         <item>Mulai sesi…</item>
         <item>Sesi dimulai</item>
-        <item>Menghentikan…</item>
+        <item>Mematikan layanan…</item>
         <item>Tdk dpt memulai sesi</item>
         <item>Waktu habis. Coba lagi…</item>
         <item>Perangkat terhubung</item>
@@ -638,7 +756,7 @@
         <item>Buat direktori: mkdir /media/mtp</item>
         <item>Konfirmasikan perizinan grup pengguna pada grup pengguna fuse saat ini</item>
         <item>Masuk lagi</item>
-        <item>Akses perangkat terpasang: mtpfs /media/mtp via kelola berkas; sama seperti direktori lokal</item>
+        <item>Akses perangkat terpasang: mtpfs /media/mtp via File Manager; sama seperti direktori lokal.</item>
         <item>"Uninstal perangkat: fusermount -u /media/mtp
 Catatan: Hanya untuk Ubuntu 8.04!"</item>
     </string-array>
@@ -681,13 +799,31 @@ Catatan: Hanya untuk Ubuntu 8.04!"</item>
         <item>Sandi</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
-        <item>Hubung secara otomatis</item>
-        <item>Hubung secara manual</item>
+        <item>Otomatis hubungkan</item>
+        <item>Hubungkan dengan manual</item>
         <item>Selalu tanya</item>
     </string-array>
     <string-array name="wifi_ssid_type_entries">
-        <item>Hubung secara otomatis</item>
-        <item>Hubung secara manual</item>
+        <item>Otomatis hubungkan</item>
+        <item>Hubungkan dengan manual</item>
+    </string-array>
+    <string-array name="connect_mode_entries">
+        <item>Kompatibilitas</item>
+        <item>Kecepatan tinggi</item>
+    </string-array>
+    <string-array name="connect_mode_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="traffic_balance_entries">
+        <item>Mati</item>
+        <item>Reguler</item>
+        <item>Ekstrim</item>
+    </string-array>
+    <string-array name="traffic_balance_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Peluncur</item>
@@ -770,26 +906,23 @@ Catatan: Hanya untuk Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Segera</item>
-        <item>30 detik</item>
-        <item>1 menit</item>
-        <item>2 menit</item>
-        <item>5 menit</item>
+        <item>Setelah 30 detik</item>
+        <item>Setelah 1 menit</item>
+        <item>Setelah 2 menit</item>
+        <item>Setelah 5 menit</item>
+        <item>tidak butuh</item>
     </string-array>
     <string-array name="fluency_mode_entries">
         <item>Sembunyikan animasi sistem</item>
-        <item>Tampil animasi sistem</item>
+        <item>Tampilkan animasi sistem</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
         <item>Percepat performa perangkat</item>
-        <item>Memperlambat performa perangkat</item>
+        <item>Dapat memperlambat performa perangkat</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>Mulai ulang perangkat untuk terapkan setelan ini?</item>
         <item>Mulai ulang perangkat untuk terapkan setelan ini?</item>
-    </string-array>
-    <string-array name="screen_resolution_entries">
-        <item>Ultra tinggi (2K)</item>
-        <item>Normal (720p)</item>
     </string-array>
     <string-array name="miui_entries_font_size">
         <item>S</item>
@@ -798,6 +931,15 @@ Catatan: Hanya untuk Ubuntu 8.04!"</item>
         <item>XL</item>
         <item>XXL</item>
         <item>XXXL</item>
+    </string-array>
+    <string-array name="max_number_titles">
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>Tak terbatas</item>
     </string-array>
     <string-array name="organized_locales">
         <item>dz</item>
@@ -851,45 +993,543 @@ Catatan: Hanya untuk Ubuntu 8.04!"</item>
         <item>Layar kunci</item>
         <item>Sandi privasi</item>
         <item>Mode Anak</item>
-        <item>Berkas Saya</item>
+        <item>File Manager</item>
         <item>Kunci aplikasi</item>
         <item>Ruang kedua</item>
     </string-array>
+    <string-array name="screen_button_style">
+        <item>Gaya tangan kiri</item>
+        <item>Gaya tangan kanan</item>
+    </string-array>
+    <string-array name="screen_resolution_format">
+        <item>@string/screen_resolution_ultrahigh_format</item>
+        <item>@string/screen_resolution_high_format</item>
+        <item>@string/screen_resolution_normal_format</item>
+    </string-array>
+    <string-array name="city_name">
+        <item>Abidjan</item>
+        <item>Accra</item>
+        <item>Addis Ababa</item>
+        <item>Algiers</item>
+        <item>Blantyre</item>
+        <item>Brazzaville</item>
+        <item>Cairo</item>
+        <item>Casablanca</item>
+        <item>Conakry</item>
+        <item>Dakar</item>
+        <item>Dar es Salaam</item>
+        <item>Djibouti</item>
+        <item>Freetown</item>
+        <item>Gaborone</item>
+        <item>Harare</item>
+        <item>Johannesburg</item>
+        <item>Kampala</item>
+        <item>Khartoum</item>
+        <item>Kigali</item>
+        <item>Kinshasa</item>
+        <item>Lagos</item>
+        <item>Maseru</item>
+        <item>Mogadishu</item>
+        <item>Nairobi</item>
+        <item>São Tomé</item>
+        <item>Timbuktu</item>
+        <item>Tripoli</item>
+        <item>Tunis</item>
+        <item>Anchorage</item>
+        <item>Mendoza</item>
+        <item>Aruba</item>
+        <item>Asunción</item>
+        <item>Barbados</item>
+        <item>Belize</item>
+        <item>Bogotá</item>
+        <item>Buenos Aires</item>
+        <item>Cancun</item>
+        <item>Caracas</item>
+        <item>Cayman Islands</item>
+        <item>Chicago</item>
+        <item>Costa Rica</item>
+        <item>Curaçao</item>
+        <item>Dawson Creek</item>
+        <item>Denver</item>
+        <item>Detroit</item>
+        <item>Dominica</item>
+        <item>Edmonton</item>
+        <item>El Salvador</item>
+        <item>Fortaleza</item>
+        <item>Grand Turk</item>
+        <item>Grenada</item>
+        <item>Guatemala</item>
+        <item>Guyana</item>
+        <item>Halifax</item>
+        <item>Havana</item>
+        <item>Indianapolis</item>
+        <item>Knox City</item>
+        <item>Petersburg</item>
+        <item>Tell City</item>
+        <item>Vevay</item>
+        <item>Vincennes</item>
+        <item>Winamac</item>
+        <item>Kingston</item>
+        <item>Nuestra Señora de La Paz</item>
+        <item>Lima</item>
+        <item>Los Angeles</item>
+        <item>Louisville</item>
+        <item>Managua</item>
+        <item>Martinique</item>
+        <item>Metlakatla</item>
+        <item>Mexico City</item>
+        <item>Monterrey</item>
+        <item>Montevideo</item>
+        <item>Montreal</item>
+        <item>Nassau</item>
+        <item>New York</item>
+        <item>Beulah</item>
+        <item>New Salem</item>
+        <item>Panama</item>
+        <item>Phoenix</item>
+        <item>Port of Spain</item>
+        <item>Port-au-Prince</item>
+        <item>Puerto Rico</item>
+        <item>Santo Domingo</item>
+        <item>São Paulo</item>
+        <item>St. Johns</item>
+        <item>St. Kitts</item>
+        <item>St. Lucia</item>
+        <item>St. Thomas</item>
+        <item>Tijuana</item>
+        <item>Toronto</item>
+        <item>Vancouver</item>
+        <item>Winnipeg</item>
+        <item>South Pole</item>
+        <item>Longyearbyen</item>
+        <item>Almaty</item>
+        <item>Amman</item>
+        <item>Anadyr</item>
+        <item>Aqtau</item>
+        <item>Baghdad</item>
+        <item>Bahrain</item>
+        <item>Baku</item>
+        <item>Bangkok</item>
+        <item>Beirut</item>
+        <item>Calcutta</item>
+        <item>Damascus</item>
+        <item>Dhaka</item>
+        <item>Dubai</item>
+        <item>Gaza</item>
+        <item>Hebron</item>
+        <item>Ho Chi Minh</item>
+        <item>Hong Kong</item>
+        <item>Jakarta</item>
+        <item>Yerusalem</item>
+        <item>Kabul</item>
+        <item>Karachi</item>
+        <item>Kathmandu</item>
+        <item>Kuala Lumpur</item>
+        <item>Kuwait</item>
+        <item>Makau</item>
+        <item>Manila</item>
+        <item>Muscat</item>
+        <item>Phnom Penh</item>
+        <item>Pyongyang</item>
+        <item>Qatar</item>
+        <item>Yangon</item>
+        <item>Riyadh</item>
+        <item>Seoul</item>
+        <item>Shanghai</item>
+        <item>Singapura</item>
+        <item>Taipei</item>
+        <item>Tehran</item>
+        <item>Tel Aviv</item>
+        <item>Tokyo</item>
+        <item>Ulaanbaatar</item>
+        <item>Bermuda</item>
+        <item>Canary Islands</item>
+        <item>Cape Verde</item>
+        <item>Reykjavik</item>
+        <item>Adelaide</item>
+        <item>Brisbane</item>
+        <item>Canberra</item>
+        <item>Darwin</item>
+        <item>Melbourne</item>
+        <item>New South Wales</item>
+        <item>Perth</item>
+        <item>Queensland</item>
+        <item>Sydney</item>
+        <item>Victoria</item>
+        <item>Newfoundland</item>
+        <item>Saskatchewan</item>
+        <item>Easter Island</item>
+        <item>Amsterdam</item>
+        <item>Andorra</item>
+        <item>Athena</item>
+        <item>Belfast</item>
+        <item>Belgrade</item>
+        <item>Berlin</item>
+        <item>Bratislava</item>
+        <item>Brussels</item>
+        <item>Bucharest</item>
+        <item>Budapest</item>
+        <item>Chisinau</item>
+        <item>Copenhagen</item>
+        <item>Dublin</item>
+        <item>Gibraltar</item>
+        <item>Helsinki</item>
+        <item>Isle of Man</item>
+        <item>Istanbul</item>
+        <item>Lisbon</item>
+        <item>London</item>
+        <item>Luxembourg</item>
+        <item>Madrid</item>
+        <item>Malta</item>
+        <item>Minsk</item>
+        <item>Monaco</item>
+        <item>Moscow</item>
+        <item>Oslo</item>
+        <item>Paris</item>
+        <item>Prague</item>
+        <item>Riga</item>
+        <item>Roma</item>
+        <item>San Marino</item>
+        <item>Sarajevo</item>
+        <item>Simferopol</item>
+        <item>Skopje</item>
+        <item>Sofia</item>
+        <item>Stockholm</item>
+        <item>Tallinn</item>
+        <item>Vatikan</item>
+        <item>Vienna</item>
+        <item>Vilnius</item>
+        <item>Warsaw</item>
+        <item>Zagreb</item>
+        <item>Zurich</item>
+        <item>Antananarivo</item>
+        <item>Maldives</item>
+        <item>Mauritius</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Guam</item>
+        <item>Honolulu</item>
+        <item>Kiritimati</item>
+        <item>Noumea</item>
+        <item>Samoa</item>
+        <item>Tahiti</item>
+        <item>Antigua</item>
+        <item>Austin</item>
+        <item>Boston</item>
+        <item>Calgary</item>
+        <item>Columbus</item>
+        <item>Dallas</item>
+        <item>Knoxville</item>
+        <item>Memphis</item>
+        <item>Miami</item>
+        <item>Minneapolis</item>
+        <item>Ottawa</item>
+        <item>Philadelphia</item>
+        <item>Portland</item>
+        <item>San Diego</item>
+        <item>San Francisco</item>
+        <item>Salt Lake City</item>
+        <item>San Jose</item>
+        <item>Seattle</item>
+        <item>St. Louis</item>
+        <item>Washington D.C.</item>
+        <item>Houston</item>
+        <item>San Antonio</item>
+        <item>Jacksonville</item>
+        <item>Baltimore</item>
+        <item>Nashville</item>
+        <item>Milwaukee</item>
+        <item>Oklahoma City</item>
+        <item>Las Vegas</item>
+        <item>Albuquerque</item>
+        <item>Tucson</item>
+        <item>Sacramento</item>
+        <item>Atlanta</item>
+        <item>Cleveland</item>
+        <item>New Orleans</item>
+        <item>Tampa</item>
+        <item>Pittsburgh</item>
+        <item>Cincinnati</item>
+        <item>Mountain View</item>
+        <item>Reno</item>
+        <item>Doha</item>
+        <item>Beijing</item>
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Osaka</item>
+        <item>Lahore</item>
+        <item>"Sana'a"</item>
+        <item>Barcelona</item>
+        <item>Munich</item>
+        <item>Milan</item>
+        <item>Frankfurt</item>
+        <item>Hanoi</item>
+        <item>Ankara</item>
+        <item>Bengaluru</item>
+        <item>Brasília</item>
+        <item>Cape Town</item>
+        <item>Islamabad</item>
+        <item>Rio de Janeiro</item>
+        <item>Ann Arbor</item>
+        <item>Boulder</item>
+        <item>Cambridge</item>
+        <item>Kirkland</item>
+        <item>Madison</item>
+        <item>Guangzhou</item>
+        <item>Hyderabad</item>
+        <item>Reston</item>
+        <item>Belo Horizonte</item>
+        <item>Santiago</item>
+        <item>Monrovia</item>
+        <item>Colombo</item>
+        <item>Chihuahua</item>
+        <item>Gurugram</item>
+        <item>Manchester</item>
+        <item>Kyiv</item>
+        <item>St. Petersburg</item>
+        <item>Kraków</item>
+        <item>Wroclaw</item>
+        <item>Hamburg</item>
+        <item>Oulu</item>
+        <item>Haifa</item>
+        <item>San Juan</item>
+        <item>Tegucigalpa</item>
+        <item>Paramaribo</item>
+        <item>Quito</item>
+    </string-array>
+    <string-array name="silent_entries">
+        <item>@string/standard</item>
+        <item>@string/total</item>
+    </string-array>
+    <string-array name="silent_values">
+        <item>4</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="silent_mode_duration_text">
+        <item>Selalu</item>
+        <item>30 menit</item>
+        <item>1 jam</item>
+        <item>2 jam</item>
+        <item>8 jam</item>
+    </string-array>
+    <string-array name="silent_mode_duration_value">
+        <item>0</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>480</item>
+    </string-array>
+    <array name="click_bottom">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom08</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
+    <array name="long_press">
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom02</item>
+        <item>@drawable/longpressbottom03</item>
+        <item>@drawable/longpressbottom04</item>
+        <item>@drawable/longpressbottom05</item>
+        <item>@drawable/longpressbottom06</item>
+        <item>@drawable/longpressbottom07</item>
+        <item>@drawable/longpressbottom08</item>
+        <item>@drawable/longpressbottom08</item>
+        <item>@drawable/longpressbottom08</item>
+        <item>@drawable/longpressbottom08</item>
+        <item>@drawable/longpressbottom08</item>
+        <item>@drawable/longpressbottom09</item>
+        <item>@drawable/longpressbottom10</item>
+        <item>@drawable/longpressbottom11</item>
+        <item>@drawable/longpressbottom04</item>
+        <item>@drawable/longpressbottom03</item>
+        <item>@drawable/longpressbottom02</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+        <item>@drawable/longpressbottom01</item>
+    </array>
+    <array name="power_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_double_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="three_drop">
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop02</item>
+        <item>@drawable/threedrop03</item>
+        <item>@drawable/threedrop04</item>
+        <item>@drawable/threedrop05</item>
+        <item>@drawable/threedrop06</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+    </array>
+    <string-array name="vip_mode_text">
+        <item>Dari siapa saja</item>
+        <item>Hanya dari kontak</item>
+        <item>Hanya dari kontak berbintang</item>
+        <item>Tidak ada</item>
+    </string-array>
+    <string-array name="vip_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Tiap hari</item>
-        <item>Hari kerja</item>
-        <item>Khusus</item>
+        <item>Malam hari kerja</item>
+        <item>Akhir pekan</item>
+        <item>Kustom</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Tiap hari</item>
-        <item>Hari kerja</item>
-        <item>Khusus</item>
+        <item>Malam hari kerja</item>
+        <item>Akhir pekan</item>
+        <item>Kustom</item>
+    </string-array>
+    <string-array name="standard_configuration_version">
+        <item>3.00GB</item>
+        <item>16GB</item>
+        <item>Quad-core Max 2.5GHz</item>
     </string-array>
     <string-array name="privacy_password_function_specfication_names">
         <item>Pesan</item>
         <item>Foto</item>
         <item>Berkas</item>
         <item>Catatan</item>
-        <item>Mode Anak</item>
     </string-array>
-    <string-array name="screen_key_position_action">
-        <item>Tombol Menu di kiri, tombol Kembali di kanan</item>
-        <item>Tombol Kembali di kiri, tombol Menu di kanan</item>
+    <string-array name="install_non_market_app_entries">
+        <item>Hidupkan (rekomendasi)</item>
+        <item>Jangan gunakan (berbahaya)</item>
     </string-array>
-    <string-array name="anr_record_interval_entries">
-        <item>10 dtk</item>
-        <item>20 dtk</item>
-        <item>30 dtk</item>
-        <item>1 mnt</item>
+    <string-array name="install_non_market_app_contents">
+        <item>Hidupkan</item>
+        <item>Jangan gunakan</item>
     </string-array>
-    <string-array name="anr_record_interval_values">
-        <item>10</item>
-        <item>20</item>
-        <item>30</item>
-        <item>60</item>
+    <string-array name="standard_configuration_version_description_primary">
+        <item>CPU</item>
+        <item>Kapasitas baterai</item>
+        <item>Kamera belakang</item>
+        <item>Ukuran layar</item>
+        <item>Resolusi</item>
+        <item>Versi Android</item>
     </string-array>
-    <string-array name="screen_button_style">
-        <item>Gaya tangan kiri</item>
-        <item>Gaya tangan kanan</item>
+    <string-array name="standard_configuration_version_description_secondary">
+        <item>Snapdragon 625</item>
+        <item>4100mAh(typ)</item>
+        <item>13MP</item>
+        <item>5,5 inci</item>
+        <item>1920 x 1080</item>
+        <item>6.0</item>
+    </string-array>
+    <string-array name="pink_panel_led_color_entries">
+        <item>Lilac</item>
+        <item>Ruby</item>
+        <item>Jingga</item>
+        <item>Hijau</item>
+        <item>Ungu</item>
+    </string-array>
+    <string-array name="screen_resolution_entries">
+        <item>Ultra tinggi (2K)</item>
+        <item>Normal (720p)</item>
     </string-array>
 </resources>

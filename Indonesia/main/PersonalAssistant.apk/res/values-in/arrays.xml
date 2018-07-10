@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stock_color_schema">
+        <item>Hijau - naik, merah - turun</item>
+        <item>Merah - naik, hijau - turun</item>
+    </string-array>
+    <string-array name="stock_title_schema">
+        <item>Highlight nama</item>
+        <item>Highlight kode</item>
+    </string-array>
+</resources>

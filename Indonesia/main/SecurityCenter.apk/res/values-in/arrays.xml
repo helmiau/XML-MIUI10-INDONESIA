@@ -8,6 +8,7 @@
     <string-array name="date_of_traffic">
         <item>"Kemarin "</item>
         <item>"Hari ini "</item>
+        <item>"Bulan lalu "</item>
         <item>"Bulan ini "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix_cmcc">
@@ -18,29 +19,18 @@
     <string-array name="date_of_traffic_prefix">
         <item>"Kemarin: "</item>
         <item>"Hari ini: "</item>
+        <item>"Bulan lalu: "</item>
         <item>"Bulan ini: "</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>Kemarin (seluler)</item>
         <item>Hari ini (seluler)</item>
+        <item>Bulan lalu (seluler)</item>
         <item>Bulan ini (seluler)</item>
         <item>Kemarin (Wi-Fi)</item>
         <item>Hari ini (Wi-Fi)</item>
+        <item>Bulan lalu (Wi-Fi)</item>
         <item>Bulan ini (Wi-Fi)</item>
-    </string-array>
-    <string-array name="date_of_app">
-        <item>Kemarin (seluler)</item>
-        <item>Hari ini (seluler)</item>
-        <item>Bulan ini (seluler)</item>
-    </string-array>
-    <string-array name="network_speed_update_internals">
-        <item>3 dtk</item>
-        <item>4 dtk</item>
-        <item>5 dtk</item>
-        <item>6 dtk</item>
-        <item>7 dtk</item>
-        <item>8 dtk</item>
-        <item>9 dtk</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"Penggunaan seluler "</item>
@@ -50,21 +40,9 @@
         <item>"Penggunaan seluler "</item>
         <item>"Penggunaan Wi-Fi "</item>
     </string-array>
-    <string-array name="traffic_sort_type">
-        <item>"Penggunaan data seluler "</item>
-        <item>"Penggunaan Wi-Fi "</item>
-    </string-array>
-    <string-array name="traffic_setting_sms_template">
-        <item>Peroleh secara otomatis</item>
-        <item>Setel secara manual</item>
-    </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Tampil peringatan</item>
         <item>Beritahu dan matikan data seluler</item>
-    </string-array>
-    <string-array name="roaming_apps_sorted_type">
-        <item>Sering digunakan</item>
-        <item>Nama</item>
     </string-array>
     <string-array name="roaming_network_type">
         <item>Selalu</item>
@@ -81,14 +59,39 @@
         <item>0</item>
         <item>2</item>
     </string-array>
-    <string-array name="long_add_menu">
-        <item>Tambah ke pengecualian</item>
+    <string-array name="sort_type">
+        <item>Status</item>
+        <item>Nama apl</item>
+        <item>Frekuensi penggunaan</item>
+        <item>Penyimpanan terpakai</item>
+        <item>Waktu instal</item>
     </string-array>
-    <string-array name="power_dialog_auto_clean_memory_items">
-        <item>Setelah 1 menit</item>
-        <item>Setelah 5 menit</item>
-        <item>Setelah 10 menit</item>
-        <item>Jangan</item>
+    <string-array name="sort_title">
+        <item>Urut per status</item>
+        <item>Urut per nama apl</item>
+        <item>Urut per frekuensi penggunaan</item>
+        <item>Urut per penyimpanan terpakai</item>
+        <item>Urut per waktu instal</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Sumber instalasi</item>
+        <item>Waktu instal</item>
+        <item>Sumber pembaruan terakhir</item>
+        <item>Waktu pembaruan terakhir</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Penggunaan data</item>
+        <item>Saldo pulsa</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Matikan dan beritahu</item>
+        <item>Hanya beritahu</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Sekali</item>
@@ -102,6 +105,12 @@
         <item>Tiap hari</item>
         <item>Senin sampai Jumat</item>
         <item>Kustom</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Setelah 1 menit</item>
+        <item>Setelah 5 menit</item>
+        <item>Setelah 10 menit</item>
+        <item>Jangan</item>
     </string-array>
     <string-array name="power_dialog_sleep_items">
         <item>15 detik</item>

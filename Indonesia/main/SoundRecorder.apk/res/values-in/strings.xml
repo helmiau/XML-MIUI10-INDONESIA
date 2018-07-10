@@ -9,7 +9,11 @@
     <string name="search_silent_mode">Heningkan dering saat rekam</string>
     <string name="search_enable_earpiece_title">Pakai penerima untuk putar audio</string>
     <string name="search_quliaty_title">Kualitas rekaman</string>
+    <string name="keywords_search_record_list">Perekam;Recorder;Transkrip;Rekam;Berbagi rekaman;Rekaman</string>
+    <string name="keywords_search_record">Rekaman baru;Tambah rekaman;Rekaman;Transkrip;Perekam;Perekam pidato;Rekam pidato;Rekam suara;Apl perekam;Recorder;Cara merekam;Cara merekam suara;Apa itu Perekam;Apa itu recorder;MIUI Recorder;MIUI Perekam</string>
+    <string name="keywords_search_call_record">Rekam panggilan;Rekam telepon;Perekaman telepon</string>
     <string name="app_name">Perekam</string>
+    <string name="record">Rekam</string>
     <string name="recording">Merekam</string>
     <string name="recording_stopped">Berhenti</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
@@ -22,7 +26,6 @@
     <string name="notification_recording_ticker">Telepon diheningkan</string>
     <string name="notification_playback">Memutar…</string>
     <string name="notification_stopped">Berhenti merekam</string>
-    <string name="notification_warning">Penyimpanan rendah (krg dr %d mnt)</string>
     <string name="record_list">Rekaman</string>
     <string name="record_list_fm">Rekaman FM</string>
     <string name="record_list_call">Rekaman panggilan</string>
@@ -40,9 +43,9 @@
     <string name="deleting_message">Menghapus…</string>
     <string name="rename_dialog_title">Ganti nama rekaman</string>
     <string name="rename_duplicate">Rekaman dengan nama yang sama sudah ada.</string>
-    <string name="rename_no_more_tip">Jangan tampil lagi</string>
+    <string name="rename_no_more_tip">Jangan tampilkan lagi</string>
     <string name="dialog_title_storage_full">Tak ada cukup ruang</string>
-    <string name="dialog_content_storage_full">Perekaman dihentikan karena tak ada cukup ruang di memori internal perangkat Anda.</string>
+    <string name="dialog_content_storage_full">Perekaman dihentikan karena tak ada cukup ruang di penyimpanan internal perangkat.</string>
     <string name="status_bar_recording">Merekam…</string>
     <string name="status_bar_back">Ketuk untuk kembali ke Perekam</string>
     <string name="status_bar_recording_pause">Perekam dijeda</string>
@@ -50,6 +53,7 @@
     <string name="low_battery_error">Baterai kurang dari 5%. Matikan dan simpan rekaman Anda agar tidak hilang.</string>
     <string name="low_battery_error_confirm">Oke</string>
     <string name="record_name_hour">.</string>
+    <string name="record_name_minute" />
     <string name="sound_recorder_settings">Setelan</string>
     <string name="preference_led_indicator">Notifikasi layar kunci</string>
     <string name="preference_tip_rename">Beri nama rekaman manual</string>
@@ -68,7 +72,8 @@
     <string name="message_file_size_error">Rekaman telah mencapai panjang maksimum yg didukung oleh %s</string>
     <string name="pause">Jeda</string>
     <string name="back">Kembali</string>
-    <string name="toast_uninstall_fileexplorer">Apl Kelola Berkas tidak terinstal</string>
+    <string name="menu">Menu</string>
+    <string name="toast_uninstall_fileexplorer">File Manager tidak terinstal</string>
     <string name="record_download">Unduh dari Mi Cloud</string>
     <string name="record_download_msg">Rekaman hanya bisa dimainkan setelah selesai mengunduh.</string>
     <string name="record_download_msg_reload">Rekaman ini tak ada.</string>
@@ -93,6 +98,7 @@
     <string name="record_quliaty_preference_title">Kualitas rekaman</string>
     <string name="cloud_record_tip">Sinkron rekaman dengan Mi Cloud.</string>
     <string name="cloud_record_open">Sinkron rekaman</string>
+    <string name="cloud_service_state_open_reminder">Hidupkan Sinkron dengan Mi Cloud untuk sinkron berkas rekaman.</string>
     <string name="cloud_status_full_dialog_title">Penyimpanan Mi Cloud penuh</string>
     <string name="cloud_status_full_dialog_msg">Penyimpanan cloud Anda penuh, tidak dapat menyinkron rekaman. Tingkatkan level akun untuk mendapatkan ruang lebih banyak.</string>
     <string name="cloud_status_full_dialog_cancel">Nanti</string>
@@ -107,7 +113,7 @@
     <string name="text_btn_wave">Gelombang</string>
     <string name="text_finish">Konfirmasi</string>
     <string name="new_record_name">Rekaman baru</string>
-    <string name="export_to_note">Ekspor ke Catatan</string>
+    <string name="export_to_note">Ekspor</string>
     <string name="mark_point_list_title">Tandai</string>
     <string name="speech_recognition_running_tip">Berjalan</string>
     <string name="speech_recognition_complete">Selesai</string>
@@ -135,12 +141,15 @@
     <string name="recognition_error_downloading">Mengunduh</string>
     <string name="recognition_status_downloading">Mengunduh</string>
     <string name="runtime_permission_ungranted">Tidak dapat menggunakan Perekam karena tidak diizinkan</string>
-    <string name="btn_clear_records">Hapus rekaman (%d item)</string>
     <string name="alert_message_clear_records">Hapus rekaman terpilih?</string>
     <string name="clear_records">Hapus sinkron rekaman</string>
-    <string name="choose_call_records_count">%d rekaman</string>
     <string name="network_tip_dialog_title">Butuh koneksi internet</string>
-    <string name="network_tip_dialog_content">Mesin pengenalan ucapan perlu terhubung ke internet agar dapat bekerja dengan normal.</string>
-    <string name="network_tip_dialog_ok">Izinkan</string>
+    <string name="network_tip_dialog_content">Apl Perekam butuh terhubung ke internet dan membaca kontak Anda agar dapat bekerja dengan normal. Setuju?</string>
+    <string name="network_tip_dialog_ok">Setuju</string>
     <string name="network_tip_dialog_cancel">Batal</string>
+    <string name="head_set_tip_dialog_title">Pakai mikrofon internal</string>
+    <string name="head_set_tip_dialog_msg">Copot earphone agar dapat rekam suara dengan preset tertentu (contoh: Musik, Suara).</string>
+    <string name="head_set_tip_dialog_ok">Mengerti</string>
+    <string name="rename_fail_tip">Tidak dapat mengganti nama. Berkas dengan nama yang sama sudah ada.</string>
+    <string name="dialog_privacy_revoke_tips">Setelah Anda mencabut otorisasi, apl akan berhenti mengumpulkan data, dan semua data terkait akan dihapus dari server. Hal ini dapat menyebabkan apl tidak dapat bekerja. Tetap cabut otorisasi? Untuk memastikan keamanan akun, masuk ke i.mi.com sebelum mencabut otorisasi untuk layanan Mi Cloud.</string>
 </resources>

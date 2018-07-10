@@ -1,37 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="download_finished">
-        <item quantity="other">&amp;lt;font color=\"red\">%d lagu&amp;lt;/font> diunduh</item>
+    <plurals name="Nalbum_total_songs">
+        <item quantity="other">Total %d lagu</item>
     </plurals>
-    <plurals name="download_running">
-        <item quantity="other">&amp;lt;font color=\"red\">%d lagu&amp;lt;/font> sedang diunduh</item>
+    <plurals name="Nassociate_songs">
+        <item quantity="other">Mencari sampul album dan lirik (%1$d/%2$d)</item>
     </plurals>
-    <plurals name="Ntracks_search_result">
-        <item quantity="other">%d lagu ditemukan</item>
+    <plurals name="Nbackup_songs">
+        <item quantity="other">Sedang mencadangkan, %1$d lagu tersisa (%2$.1fMB)</item>
     </plurals>
-    <plurals name="Nexpired_remind">
-        <item quantity="other">%d hari tersisa</item>
+    <plurals name="Nquit_warning">
+        <item quantity="other">Pemutar akan berhenti setelah %d mnt</item>
     </plurals>
-    <plurals name="NTrackstoDownload">
-        <item quantity="other">%d lagu akan diunduh</item>
+    <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">Dibuat pada %1$s | total %2$d lagu</item>
     </plurals>
-    <plurals name="NPlaylist_delete_confirm">
-        <item quantity="other">Hapus %d daftar putar?</item>
+    <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">%d lagu belum dicadangkan ke Mi Cloud. Hentikan sekarang?</item>
     </plurals>
-    <plurals name="Nnew_tracks_count">
-        <item quantity="other">%d baru</item>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d lagu ditambahkan ke daftar putar</item>
     </plurals>
     <plurals name="Ntracks_count">
         <item quantity="other">%d lagu</item>
     </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d lagu terhapus dari daftar putar</item>
+    </plurals>
     <plurals name="Ntracks_similar_count">
-        <item quantity="other">%d lagu yang mirip</item>
+        <item quantity="other">%d lagu serupa</item>
     </plurals>
-    <plurals name="Nartists_count">
-        <item quantity="other">%d artis</item>
+    <plurals name="Nunbackup_audios">
+        <item quantity="other">%1$d lagu belum dicadangkan (%2$.1fMB)</item>
     </plurals>
-    <plurals name="Ngroups_count">
-        <item quantity="other">%d grup</item>
+    <plurals name="Nupload_song_button">
+        <item quantity="other">Cadangkan %1$d lagu (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%d komentar</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Hapus %d item?</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message_with_file">
+        <item quantity="other">"Hapus %d berkas?
+Catatan: Berkas akan dihapus dari perangkat ini juga."</item>
     </plurals>
     <plurals name="dialog_delete_descript">
         <item quantity="other">Hapus %d lagu?</item>
@@ -39,34 +52,37 @@
     <plurals name="dialog_remove_descript">
         <item quantity="other">Hapus %d lagu?</item>
     </plurals>
-    <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">%d lagu ditambahkan ke daftar putar</item>
+    <plurals name="dialog_remove_from_cloud_descript">
+        <item quantity="other">Hapus %d lagu dari Mi Cloud? Lagu tersebut akan dihapus dari daftar putar lokal juga.</item>
     </plurals>
-    <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d lagu dihapus dari daftar putar</item>
+    <plurals name="download_finished">
+        <item quantity="other">&lt;font color=\"red\">%d lagu&lt;/font> diunduh</item>
     </plurals>
-    <plurals name="Nquit_warning">
-        <item quantity="other">Pemutar akan berhenti setelah %d mnt</item>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%d unduhan dihapus</item>
     </plurals>
-    <plurals name="send_songs_toast">
-        <item quantity="other">%d lagu akan dikirim</item>
-    </plurals>
-    <plurals name="folder_songs_count">
-        <item quantity="other">%d lagu</item>
-    </plurals>
-    <plurals name="Nnew_local_audios">
-        <item quantity="other">%d lagu ditambahkan</item>
+    <plurals name="download_running">
+        <item quantity="other">&lt;font color=\"red\">%d lagu&lt;/font> sedang diunduh</item>
     </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d item terpilih</item>
     </plurals>
+    <plurals name="reader_count">
+        <item quantity="other">%d pengikut</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d lagu akan dikirim</item>
+    </plurals>
+    <plurals name="skipped_online_songs_tips">
+        <item quantity="other">%d lagu dilompati. Hidupkan layanan online di setelan untuk mendengarkan lagu-lagu ini.</item>
+    </plurals>
     <plurals name="song_already_favorite">
         <item quantity="other">Lagu telah difavoritkan.</item>
     </plurals>
-    <plurals name="comment_count">
-        <item quantity="other">%d komentar</item>
+    <plurals name="songs_count">
+        <item quantity="other">%d lagu</item>
     </plurals>
-    <plurals name="reader_count">
-        <item quantity="other">%d pengikut</item>
+    <plurals name="video_play_count">
+        <item quantity="other">%1$s views</item>
     </plurals>
 </resources>

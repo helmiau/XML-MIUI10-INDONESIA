@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="folder_operations">
-        <item>Ganti nama</item>
-        <item>Hapus</item>
-    </string-array>
     <string-array name="attachment_chooser">
         <item>Kamera</item>
         <item>Galeri</item>
-    </string-array>
-    <string-array name="note_sort_way">
-        <item>Sorted by creation date</item>
-        <item>Sorted by modification date</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Nama</item>
@@ -25,54 +17,32 @@
         <item>Alamat</item>
         <item>Catatan</item>
     </string-array>
+    <string-array name="first_guide_contents">
+        <item>Selamat datang di Catatan!</item>
+        <item>Ambil catatan</item>
+        <item>Anda dapat gunakan teks, gambar, dan rekaman suara dalam catatan Anda. Sebuah pustaka yang kaya gaya dan font akan membuat coretan sederhana Anda terlihat menakjubkan.</item>
+        <item>Daftar periksa dan pengingat datang untuk membantu saat Anda membutuhkan alat dasar dan efektif untuk merencanakan perjalanan Anda berikutnya atau menyusun daftar belanjaan.</item>
+        <item>Berbagi catatan</item>
+        <item>You can generate scrolling screenshots in Notes automatically, and them share them with your friends.</item>
+        <item>Create &amp; switch between folders</item>
+        <item>Tekan panah di bawah untuk buat folder baru atau beralih di antara yang sudah ada.</item>
+    </string-array>
+    <string-array name="folder_operations">
+        <item>Ganti nama</item>
+        <item>Hapus</item>
+    </string-array>
     <string-array name="font_size_names">
         <item>Kecil</item>
         <item>Sedang</item>
         <item>Besar</item>
         <item>Sangat besar</item>
     </string-array>
-    <string-array name="welcome_notes_content">
-        <item>"Selamat datang di Catatan
-"</item>
-        <item>"Buat catatan
-Ketuk tanda tambah untuk buat catatan."</item>
-        <item>"Pilih latar belakang
-Anda dapat ganti latar belakang catatan.
-Ketuk tombol sebelah kanan bawah untuk pilih latar belakang yang Anda sukai."</item>
-        <item>"Buat folder
-Atur catatan Anda di dalam folder.
-Ada 2 cara untuk membuat folder:
-1. Ketuk ikon folder di ujung kanan atas, dan ketuk tanda tambah.
-2. Tekan lama catatan sampai muncul menu, dan pilih \"Pindah ke\" - \"Folder baru\"."</item>
-        <item>"Menyembunyikan catatan
-Lindungi catatan pribadi Anda dengan sandi.
-Ada 2 cara untuk menyembunyikan catatan:
-1. Ketuk tombol \"Lainnya“ di ujung kanan atas, dan pilih \"Sembunyikan\".
-2. Tekan lama catatan sampai muncul menu, dan pilih \"Sembunyikan\"."</item>
-        <item>"Dan fitur-fitur keren lainnya!
-  - Gambar, kotak centang, pengingat.
-
-Tambah gambar
-Ketuk ikon gambar di bawah untuk tambah gambar.
-Anda dapat ambil foto dengan kamera atau pilih dari Galeri.
-Saat ada gambar di suatu catatan, maka gambar ini akan digunakan sebagai miniatur catatan di tampilan kisi.
-
-Buat kotak centang
-Kotak centang adalah unsur yang penting dalam membuat daftar tugas (to-do list).
-Ketuk ikon kotak centang di bawah untuk menambahkan kotak centang ke teks.
-Centang kotak jika telah menyelesaikan tugas.
-
-Setel pengingat
-Setel pengingat langsung dari catatan.
-Ketuk tombol \"Lainnya\" di ujung kanan atas, pilih \"Pengingat\", setel waktunya.
-"</item>
+    <string-array name="note_sort_way">
+        <item>Per tgl dibuat</item>
+        <item>Per tgl dimodifikasi</item>
     </string-array>
-    <string-array name="welcome_notes_image">
-        <item>guide_1</item>
-        <item></item>
-        <item>guide_3_1</item>
-        <item></item>
-        <item></item>
-        <item></item>
+    <string-array name="second_guide_contents">
+        <item>Catatan suara</item>
+        <item>Buat catatan menggunakan mesin ucapan-ke-teks bawaan kami melampirkan rekaman asli suara Anda ke catatan.</item>
     </string-array>
 </resources>

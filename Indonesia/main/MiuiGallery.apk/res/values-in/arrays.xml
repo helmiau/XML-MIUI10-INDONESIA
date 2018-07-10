@@ -4,6 +4,20 @@
         <item>Laki-laki</item>
         <item>Perempuan</item>
     </string-array>
+    <string-array name="collage_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Mei</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Ags</item>
+        <item>Sep</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Des</item>
+    </string-array>
     <string-array name="owner_relation">
         <item>Ayah</item>
         <item>Ibu</item>
@@ -19,6 +33,14 @@
         <item>Rekan kerja</item>
         <item>Teman kelas</item>
         <item>Teman</item>
-        <item>Tak diketahui</item>
+        <item>Belum dikelompokkan</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Ayah</item>
+        <item>Ibu</item>
+        <item>Kakek dari ayah</item>
+        <item>Nenek dari ayah</item>
+        <item>Kakek dari ibu</item>
+        <item>Nenek dari ibu</item>
     </string-array>
 </resources>
