@@ -1,10 +1,10 @@
-# XML-MIUI8-INDONESIA-hermes
-Indonesia Translation Language for Xiaomi Redmi Note 2
+# XML-MIUI10-INDONESIA-hermes
+Indonesia Translation Language for Xiaomi Redmi Note 4X Snapdragon
 
 
 Indonesia Translation Language 
-base MIUI 8 Global Developer ROM 6.11.24
-Xiaomi Redmi Note 2
+on MIUI 10 Global BETA ROM 8.7.3 Based
+Xiaomi Redmi Note 4X
 
 by
 helmiau
