@@ -1,4 +1,4 @@
-# XML-MIUI10-INDONESIA-hermes
+# XML-MIUI10-INDONESIA-mido
 Indonesia Translation Language for Xiaomi Redmi Note 4X Snapdragon
 
 
