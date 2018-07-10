@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="air_quality0">\'AQI \'+#aqi</string>
-    <string name="air_quality1">\'AQI \'+#aqi</string>
-    <string name="air_quality2">\'AQI \'+#aqi</string>
-    <string name="air_quality3">\'AQI \'+#aqi</string>
-    <string name="air_quality4">\'AQI \'+#aqi</string>
-    <string name="air_quality5">\'AQI \'+#aqi</string>
-    <string name="weather_null"></string>
-    <string name="weather_location_null"></string>
+    <string name="date_time">EEE, dd MMMM</string>
+    <string name="date_time_12">EEE, dd MMMM</string>
+    <string name="desc_date_format">EEEE, dd MMM</string>
+    <string name="desc_date_format_12">EEEE, dd MMM</string>
+    <string name="desc_time">'waktu sekarang\' + #hour12+\' \'+ifelse(#minute,#minute,\'\')+\', ketuk 2x untuk masuk ke apl jam'</string>
+    <string name="weather_type_null">'Tidak ada data'</string>
     <string name="weather_type_0">Cerah</string>
     <string name="weather_type_1">Berawan</string>
     <string name="weather_type_2">Berkabut</string>
@@ -33,4 +31,5 @@
     <string name="weather_type_22">Hujan es</string>
     <string name="weather_type_23">Berdebu</string>
     <string name="weather_type_24">Kabut</string>
+    <string name="weather_type_25">Hujan yang dingin</string>
 </resources>

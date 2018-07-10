@@ -1,4 +1,5 @@
-<strings>
-    <string name="no_title" value="Buka pemutar musik" />
-    <string name="no_artist" value="Tak ada musik" />
-</strings>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_title">Pemutar musik</string>
+    <string name="no_artist">Ketuk utk buka app Musik</string>
+</resources>

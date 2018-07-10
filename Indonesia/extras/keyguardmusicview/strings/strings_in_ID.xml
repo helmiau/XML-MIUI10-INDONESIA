@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_title">Tak ada musik</string>
+    <string name="no_artist">Tak ada musik</string>
+</resources>
