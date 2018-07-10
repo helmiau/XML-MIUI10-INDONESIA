@@ -3,7 +3,6 @@
     <string name="needPuk">Kartu USIM Anda dikunci dengan PUK. Ketik kode PUK untuk buka.</string>
     <string name="needPuk2">Ketik kode PUK2 untuk buka blokir kartu USIM.</string>
     <string name="permdesc_readSms">Izinkan aplikasi membaca pesan SMS yang tersimpan di pad atau kartu USIM. Aplikasi berbahaya dapat membaca pesan rahasia Anda.</string>
-    <string name="permdesc_writeSms">Izinkan aplikasi menulis pada pesan SMS yang tersimpan di pad atau kartu USIM. Aplikasi berbahaya dapat menghapus pesan Anda.</string>
     <string name="lockscreen_missing_sim_message_short">Tak ada kartu USIM</string>
     <string name="lockscreen_missing_sim_message">Tak ada kartu USIM di telepon.</string>
     <string name="lockscreen_missing_sim_instructions">Harap masukkan kartu USIM.</string>
@@ -16,4 +15,5 @@
     <string name="sim_removed_title">Kartu USIM dilepas</string>
     <string name="sim_removed_message">Jaringan seluler tidak tersedia hingga Anda mulai ulang dengan kartu USIM yang valid.</string>
     <string name="sim_added_title">Kartu USIM ditambahkan</string>
+    <string name="permdesc_writeSms">Izinkan aplikasi menulis pada pesan SMS yang tersimpan di pad atau kartu USIM. Aplikasi berbahaya dapat menghapus pesan Anda.</string>
 </resources>

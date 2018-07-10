@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="day">
+        <item quantity="other">%1$s hari</item>
+    </plurals>
+    <plurals name="delete_download_history_confirm">
+        <item quantity="other">Hapus %1$s riwayat pengunduhan?</item>
+    </plurals>
+</resources>

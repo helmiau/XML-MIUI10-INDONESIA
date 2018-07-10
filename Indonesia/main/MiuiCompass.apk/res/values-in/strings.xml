@@ -15,7 +15,8 @@
     <string name="pressure">%.1f</string>
     <string name="altitude">%.1f</string>
     <string name="pressure_unit">hPa</string>
-    <string name="altitude_unit">M</string>
+    <string name="altitude_unit">m</string>
+    <string name="angle">%.0f</string>
     <string name="dialog_title_no_network">Hidupkan jaringan</string>
     <string name="dialog_body_no_network">Tidak dapat terhubung ke jaringan</string>
     <string name="dialog_calibrat_altitude">Kalibrasi…</string>
@@ -29,12 +30,13 @@
     <string name="direction_north_west">BL</string>
     <string name="direction_south_east">TG</string>
     <string name="direction_south_west">BD</string>
+    <string name="unit_degree">Derajat</string>
     <string name="guide_toast">Untuk kalibrasi, gerakkan telepon seperti gambar di bawah.</string>
     <string name="mobiledata_alert_dialog_title">Peringatan penggunaan data</string>
     <string name="mobiledata_alert_dialog_message">Hubungkan ke internet untuk kalibrasi ketinggian?</string>
-    <string name="do_not_show_next_time">Jangan tampil lagi</string>
+    <string name="do_not_show_next_time">Jangan tampilkan lagi</string>
     <string name="location_not_enabled_title">Layanan lokasi</string>
-    <string name="location_not_enabled_summary">Direktori butuh info lokasi Anda untuk dapat bekerja dengan normal.</string>
+    <string name="location_not_enabled_summary">Kompas butuh akses ke lokasi Anda agar dapat menunjukkan koordinat dan ketinggian.</string>
     <string name="location_enable">Izinkan</string>
     <string name="location_enable_later">Nanti</string>
     <string name="location_enabled">Anda dapat mematikan layanan lokasi kapan saja di Setelan.</string>
@@ -53,4 +55,10 @@
     <string name="altitude_uncalibrate_refresh">Coba lagi</string>
     <string name="altitude_uncalibrate_cancel">Batal</string>
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
+    <string name="app_description_title">Tentang kompas</string>
+    <string name="app_description_content">Kompas digunakan untuk navigasi dan petunjuk arah. Pastikan Anda telah mengetahui apa yang bisa dilakukan dengan fitur ini, sebelum Anda uninstal apl ini.</string>
+    <string name="open_perm_msg">Kompas butuh akses info lokasi dan kamera. Hal ini dibutuhkan untuk menentukan koordinat dan memberikan pratinjau live. Izinkan?</string>
+    <string name="open_perm_title">Butuh perizinan</string>
+    <string name="cancel">Batal</string>
+    <string name="allow">Izinkan</string>
 </resources>

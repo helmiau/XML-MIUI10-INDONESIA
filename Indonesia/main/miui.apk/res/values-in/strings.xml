@@ -24,6 +24,8 @@
     <string name="select_all">Pilih semua</string>
     <string name="deselect_all">Batal pilih</string>
     <string name="instruction">Petunjuk</string>
+    <string name="sar">Informasi Paparan Frekuensi Radio (RF)</string>
+    <string name="user_experience_program">Program Pengalaman Pengguna</string>
     <string name="abc_action_bar_up_description">Navigasi atas</string>
     <string name="abc_action_bar_home_description">Navigasi beranda</string>
     <string name="time_picker_label_hour">J</string>
@@ -54,11 +56,11 @@
     <string name="check_phone_error_title">Sinkron nonaktif</string>
     <string name="check_phone_io_error">Tidak dapat terhubung ke jaringan</string>
     <string name="send_sms_for_sync_title">Peringatan penggunaan data</string>
-    <string name="send_sms_for_sync_notice">Anda dpt dikenakan biaya oleh operator utk SMS aktivasi layanan ini.</string>
+    <string name="send_sms_for_sync_notice">Sebuah SMS keluar mungkin dibutuhkan untuk aktivasi layanan ini. Anda akan dikenakan biaya oleh operator untuk SMS tersebut.</string>
     <string name="activate">Aktivasi</string>
     <string name="activate_fail_notification_title">Aktivasi ulang sinkron</string>
-    <string name="sim_changed_reactivate_notice">Anda dapat dikenakan biaya oleh operator untuk SMS aktivasi ulang layanan ini.</string>
-    <string name="sim_changed_reactivate_int_notice">Anda dapat dikenakan biaya oleh operator untuk SMS internasional aktivasi ulang layanan ini.</string>
+    <string name="sim_changed_reactivate_notice">Sebuah SMS keluar mungkin dibutuhkan untuk aktivasi ulang layanan ini. Anda akan dikenakan biaya oleh operator untuk SMS tersebut.</string>
+    <string name="sim_changed_reactivate_int_notice">Sebuah SMS interlokal keluar mungkin dibutuhkan untuk aktivasi ulang layanan ini. Anda akan dikenakan biaya oleh operator untuk SMS tersebut.</string>
     <string name="error_title">Tdk dpt sinkron</string>
     <string name="error_unauthorized">Sinkron telah dimatikan karena terlalu banyak upaya masuk.</string>
     <string name="error_forbidden">Sinkron telah dimatikan karena ada masalah dengan Akun Mi Anda.</string>
@@ -583,4 +585,15 @@
     <string name="webview_reload">Coba lagi</string>
     <string name="hybrid_provider">Didukung oleh %1$s</string>
     <string name="xiaomi_mobile">Mi Mobile</string>
+    <string name="immersion_button_close_description">Tutup</string>
+    <string name="search_input_description">Cari</string>
+    <string name="search_mode_button_back_description">Kembali</string>
+    <string name="actionbar_immersion_button_more_description">Lainnya</string>
+    <string name="actionbar_button_up_description">Kembali</string>
+    <string name="clearable_edittext_clear_description">Bersih</string>
+    <string name="cancel_description">Cancel</string>
+    <string name="confirm_description">Confirm</string>
+    <string name="select_all_description">Select all</string>
+    <string name="deselect_all_description">Deselect all</string>
+    <string name="delete_description">Delete</string>
 </resources>

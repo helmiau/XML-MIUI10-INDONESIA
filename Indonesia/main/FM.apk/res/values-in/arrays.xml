@@ -7,28 +7,28 @@
         <item>1 jam</item>
     </string-array>
     <string-array name="search_category_rbds_entries">
-        <item>Semua Stasiun</item>
-        <item>Hits Dewasa</item>
+        <item>Semua stasiun</item>
+        <item>Hits</item>
         <item>Klasik</item>
-        <item>Rock Klasik</item>
-        <item>Perguruan Tinggi</item>
+        <item>Rock klasik</item>
+        <item>Kampus</item>
         <item>Negara</item>
         <item>Darurat</item>
-        <item>Tes Darurat</item>
-        <item>Bahasa Asing</item>
+        <item>Uji peringatan darurat</item>
+        <item>Bahasa asing</item>
         <item>Informasi</item>
         <item>Jazz</item>
         <item>Berita</item>
         <item>Nostalgia</item>
         <item>Lama</item>
-        <item>Kepribadian</item>
+        <item>Personalisasi</item>
         <item>Publik</item>
-        <item>Musik Religius</item>
-        <item>Ceramah Religius</item>
+        <item>Musik keagamaan</item>
+        <item>Percakapan keagamaan</item>
         <item>Ritme dan Blues</item>
         <item>Rock</item>
         <item>Ringan</item>
-        <item>Rock Ringan</item>
+        <item>Rock ringan</item>
         <item>Soft Ritme dan Blues</item>
         <item>Olahraga</item>
         <item>Ceramah</item>
@@ -36,34 +36,34 @@
         <item>Cuaca</item>
     </string-array>
     <string-array name="search_category_rds_entries">
-        <item>Semua Stasiun</item>
+        <item>Semua stasiun</item>
         <item>Budaya</item>
-        <item>Peristiwa terkini</item>
-        <item>Program Anak</item>
-        <item>Musik Country</item>
+        <item>Topik saat ini</item>
+        <item>Untuk anak-anak</item>
+        <item>Musik negara</item>
         <item>Dokumentasi</item>
         <item>Drama</item>
-        <item>Musik Ringan</item>
+        <item>Musik ringan</item>
         <item>Pendidikan</item>
         <item>Darurat</item>
-        <item>Tes Darurat</item>
+        <item>Uji peringatan darurat</item>
         <item>Keuangan</item>
-        <item>Musik Rakyat</item>
+        <item>Musik rakyat</item>
         <item>Informasi</item>
         <item>Musik Jazz</item>
         <item>Klasik Ringan</item>
         <item>Rekreasi</item>
         <item>Berita</item>
-        <item>Musik Nasional</item>
-        <item>Musik Lainnya</item>
-        <item>Musik Lama</item>
-        <item>Phone In</item>
+        <item>Musik rakyat tradisional</item>
+        <item>Lainnya</item>
+        <item>Lagu lama</item>
+        <item>Telepon masuk</item>
         <item>Musik Pop</item>
         <item>Religius</item>
         <item>Musik Rock</item>
         <item>Ilmiah</item>
-        <item>Klasik Serius</item>
-        <item>Urusan Sosial</item>
+        <item>Klasik</item>
+        <item>Sosial</item>
         <item>Olahraga</item>
         <item>Perjalanan</item>
         <item>Variasi</item>
@@ -94,7 +94,7 @@
         <item>India</item>
         <item>Irlandia</item>
         <item>Italia</item>
-        <item>Korea</item>
+        <item>Korea Selatan</item>
         <item>Meksiko</item>
         <item>Belanda</item>
         <item>Selandia Baru</item>
@@ -132,7 +132,7 @@
         <item>India (91.0MHz smp 106.4MHz dlm 100 Khz langkah)</item>
         <item>Irlandia (87.5MHz smp 108.0MHz dlm 50 Khz langkah)</item>
         <item>Italia (87.5MHz smp 108.0MHz dlm 50 Khz langkah)</item>
-        <item>Korea (87.5MHz smp 108.0MHz dlm 200 Khz langkah)</item>
+        <item>Korea Selatan (87.5MHz smp 108.0MHz dlm 200 Khz langkah)</item>
         <item>Meksiko (88.1MHz smp 107.9MHz dlm 200 Khz langkah)</item>
         <item>Belanda (87.5MHz smp 108.0MHz dlm 100 Khz langkah)</item>
         <item>Selandia Baru (88.0MHz smp 107.0MHz dlm 100 Khz langkah)</item>
@@ -153,7 +153,7 @@
     <string-array name="rf_cfg">
         <item>Dptkan parameter stasiun terkini</item>
         <item>Dptkan parameter stasiun (ulangi 20 kali)</item>
-        <item>Dptkan Parameter Stasiun Pencarian</item>
+        <item>Dptkan parameter stasiun pencarian</item>
         <item>Dptkan parameter pembentang pita FM</item>
         <item>Konfigurasi parameter pencarian FM</item>
     </string-array>

@@ -19,7 +19,7 @@
         <item quantity="other">%1$d orang telah mengunduh</item>
     </plurals>
     <plurals name="view_num">
-        <item quantity="other">%1$d dilihat</item>
+        <item quantity="other">%1$s dilihat</item>
     </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d grup</item>
@@ -31,7 +31,7 @@
         <item quantity="other">Hapus %1$s foto dari semua perangkat?</item>
     </plurals>
     <plurals name="deepclean_cache_summary">
-        <item quantity="other">Anda dapat bersihkan data tak penting untuk %d apps</item>
+        <item quantity="other">Anda dapat bersihkan data tak penting untuk %d apl</item>
     </plurals>
     <plurals name="deepclean_app_summary">
         <item quantity="other">%d apl terinstal, Anda dapat hapus apl yang jarang dipakai</item>
@@ -50,5 +50,45 @@
     </plurals>
     <plurals name="deepclean_install_info_desc1">
         <item quantity="other">%d apl terinstal</item>
+    </plurals>
+    <plurals name="wechat_copy_video_failed_dialog_msg">
+        <item quantity="other">Tidak dapat ekspor %d video. Bebaskan ruang dan coba lagi.</item>
+    </plurals>
+    <plurals name="wechat_empty_files">
+        <item quantity="other">(%1$d berkas kosong)</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">Tidak dipakai dalam %d hari</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">Tidak dipakai dalam %d bulan</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">Tidak dipakai dalam %d tahun</item>
+    </plurals>
+    <plurals name="resutl_function_install_app_summary">
+        <item quantity="other">&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> apl tidak digunakan untuk waktu yang lama, coba dilihat.;&lt;/Data></item>
+    </plurals>
+    <plurals name="clean_long_msg_p1">
+        <item quantity="other">"Cleaning %1$d files (%2$d%%)
+"</item>
+    </plurals>
+    <plurals name="clean_long_msg_p2">
+        <item quantity="other">%1$d items per second | Remaining time: %2$s</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%1$d jam</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%1$d menit</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%1$d detik</item>
+    </plurals>
+    <plurals name="wechat_video_time_p1">
+        <item quantity="other">%1$s:</item>
+    </plurals>
+    <plurals name="wechat_video_time_p2">
+        <item quantity="other">%1$s</item>
     </plurals>
 </resources>

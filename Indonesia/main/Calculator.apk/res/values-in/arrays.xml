@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="mortgage_repayment">
+        <item>Cicilan setara</item>
+        <item>Cicilan berkurang</item>
+    </string-array>
     <string-array name="operatorDescs">
         <item>kutip ganda kiri</item>
         <item>kutip ganda kanan</item>
@@ -18,10 +22,6 @@
         <item>kosinus</item>
         <item>bilangan pi</item>
         <item>sama dengan</item>
-    </string-array>
-    <string-array name="mortgage_repayment">
-        <item>Cicilan setara</item>
-        <item>Cicilan berkurang</item>
     </string-array>
     <string-array name="unit_data_order_currency_">
         <item>USD</item>

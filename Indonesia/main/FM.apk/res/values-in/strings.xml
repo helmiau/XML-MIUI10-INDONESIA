@@ -22,6 +22,7 @@
     <string name="station_freq_format">%sMHz</string>
     <string name="alert_message_delete_station">Preset akan dihapus.</string>
     <string name="msg_noantenna_message">Tak ada headphone yang terdeteksi. Beberapa fungsi mungkin tidak tersedia.</string>
+    <string name="msg_try_plug_headset">Hubungkan headphone dan coba lagi.</string>
     <string name="msg_do_not_support_fm">Perangkat ini tdk mendukung Radio FM</string>
     <string name="exit_fm">Keluar</string>
     <string name="toast_sleep_mode">Radio akan berhenti pada %s</string>
@@ -29,6 +30,7 @@
     <string name="notification_rec_title">Ketuk untuk lihat rekaman</string>
     <string name="record_completed">Rekaman selesai</string>
     <string name="turn_off_fm">Matikan FM</string>
+    <string name="menu_label">Menu</string>
     <string name="view_stations_list">Lihat daftar stasiun</string>
     <string name="pre_station">Stasiun sebelum</string>
     <string name="next_station">Stasiun berikut</string>
@@ -48,7 +50,7 @@
     <string name="toast_added_to_list">Ditambahkan ke daftar</string>
     <string name="toast_removed_from_presets">Dihapus dari preset</string>
     <string name="toast_fm_starting">Memulai…</string>
-    <string name="toast_fm_seeking">Mencari…</string>
+    <string name="toast_fm_seeking">Menyetel…</string>
     <string name="station_check_favorite">Tambah ke preset</string>
     <string name="toast_fm_recorder_internal_error">Perekaman FM bermasalah</string>
     <string name="toast_fm_recorder_storage_full">Tdk dpt melanjutkan rekam: tak ada cukup ruang</string>
