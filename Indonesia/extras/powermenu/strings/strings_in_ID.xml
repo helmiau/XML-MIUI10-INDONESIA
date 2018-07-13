@@ -1,9 +1,14 @@
+
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="label_airplane_mode">Pesawat</string>
     <string name="label_silent_mode">Hening</string>
     <string name="label_reboot">Mulai ulang</string>
     <string name="label_shutdown">Daya mati</string>
+    <string name="label_recovery">Pemulihan</string>
+    <string name="label_alert_recovery">Mode Pemulihan</string>
+    <string name="label_fastboot">Fastboot</string>
+    <string name="label_alert_fastboot">Mode Fastboot</string>
     <string name="label_alert_reboot">Ketuk utk mulai ulang</string>
     <string name="label_alert_shutdown">Ketuk untuk matikan daya</string>
     <string name="label_blank">Kembali</string>
