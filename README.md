@@ -1,9 +1,9 @@
 # XML-MIUI10-INDONESIA-mido
-Indonesia Translation Language for Xiaomi Redmi Note 4X Snapdragon
+Indonesia Translation Language from Xiaomi Redmi Note 4X Snapdragon
 
 
 Indonesia Translation Language 
-on MIUI 10 Global BETA ROM 8.7.3 Based
+from MIUI 10 Global BETA ROM 8.7.12 Based
 Xiaomi Redmi Note 4X
 
 by
