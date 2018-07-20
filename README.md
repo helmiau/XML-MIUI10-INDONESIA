@@ -9,4 +9,8 @@ Xiaomi Redmi Note 4X
 by
 helmiau
 (Helmi Amirudin)
-https://www.facebook.com/helmiau
+
+Contact :
+https://fb.me/helmiau
+https://t.me/helmiau
+https://t.co/helmiau
