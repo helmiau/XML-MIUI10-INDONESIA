@@ -8,6 +8,8 @@ from MIUI 10 Global ROM with Some additions for MiuiPro, MiRoom, RevolutionOS, e
 
 by
 helmiau
+Doniboyz
+Awanto
 
 
 
