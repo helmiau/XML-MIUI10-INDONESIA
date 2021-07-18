@@ -7,8 +7,12 @@ Use [jBART](https://github.com/BurgerZ/jBART) or [BARS](https://t.me/file_helmia
 
 ### Contributors
 Awanto Hamsi ~ [Facebook](https://www.facebook.com/miuimods)
+
 Moch. Romdhoni ~ [Facebook](https://www.facebook.com/doniboyz) | [Telegram]((https://t.me/doni_doank)
+
 Fadly ~ [Facebook](https://www.facebook.com/FADLY.FDL) | [Telegram]((https://t.me/fadlyfdl) | [Telegram Group PatchID]((https://t.me/patchmiui)
+
 Helmi Amirudin ~ [Facebook](https://www.facebook.com/helmiau) | [Telegram](https://t.me/helmiau)
+
 
 Thank You
