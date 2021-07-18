@@ -6,7 +6,7 @@ Extracted from MIUI 10 Global ROM with some translation additions and implementa
 ### Contributors
 Awanto Hamsi ~ [Facebook](https://www.facebook.com/miuimods) | [GitHub](https://github.com/awanto)
 
-Moch. Romdhoni ~ [Facebook](https://www.facebook.com/doniboyz) | [Telegram](https://t.me/doni_doank) | [GitHub](https://github.com/doniboyz/XML-MIUI12-INDONESIA]
+Moch. Romdhoni ~ [Facebook](https://www.facebook.com/doniboyz) | [Telegram](https://t.me/doni_doank) | [GitHub](https://github.com/doniboyz/XML-MIUI12-INDONESIA)
 
 Fadly ~ [Facebook](https://www.facebook.com/FADLY.FDL) | [Telegram](https://t.me/fadlyfdl) | [Telegram Group PatchID](https://t.me/patchmiui)
 
